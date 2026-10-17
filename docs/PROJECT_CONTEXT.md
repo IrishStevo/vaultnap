@@ -146,6 +146,14 @@ This file holds **working context for future chats**, separate from the reader-f
 - **Sorting:** Continue sorting Coming Soon latest-first by the underlying announced calendar date or period, **ignoring `EA`**, with `n/a` last. This display change does not alter row order.
 - **Scope:** Only the Outward 2 date marker and reader-facing explanation in `games/README.md` change; no game is transferred between sections. Steam review data and the other game tables are untouched. Root README instructions updated so new chats apply the same convention.
 
+## Coming Soon ordering correction — October 16, 2026
+
+- **Current authoritative rule (supersedes earlier latest-first notes above):** Sort `Coming Soon` in `games/README.md` by the next announced first-public-release date/period **ascending (soonest first)**. Place all unknown `n/a` values **last, alphabetically by game title** (case-insensitive). Preserve existing relative order for exact ties among known dates/periods.
+- Ignore the `EA ` prefix for chronological sorting. Use the existing period-end convention for comparing dates that specify only a year, quarter, season, or month; **do not invent a specific day for display**. Keep the upper end of developer-announced date ranges in the catalog.
+- **New order:** Call of Duty: Modern Warfare 4 (`Oct 23, 2026`), Outward 2 (`EA Feb 8, 2027`), Guild Wars 3 (`n/a`), Horizon Hunters Gathering (`n/a`), Light No Fire (`n/a`).
+- No dates or Early Access markers were revised. No entries moved between sections; all game descriptions, links, and review figures are unchanged. This ordering rule is permanent and must be applied after every future Coming Soon date refresh. The previous latest-first order recorded above is **historical, not current guidance**.
+- As always: GitHub is read-only for the assistant; changes are delivered as a ZIP with repository-relative paths and a suggested commit message for the owner to commit manually.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
