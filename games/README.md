@@ -92,31 +92,31 @@ Games currently considered ready for us to play.
 
 Games in Early Access that may need more development before we play.
 
-*Percent* and *Count* are Steam review figures; *Start* and *End* are the Early Access dates.
+*Percent* and *Count* show Steam’s all-time user review figures (English-language where available; updated October 16, 2026). *Start* and *End* are the Early Access dates.
 
 | Game | Quick Description | Percent | Count | Start | End |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| [Sandustry](https://store.steampowered.com/app/2764460/Sandustry/) | Open world factory automation | 97% | 3,000 | Aug 13, 2026 | n/a |
-| [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) | Physics horror comedy | 96% | 130,000 | Feb 26, 2025 | n/a |
-| [Far Far West](https://store.steampowered.com/app/3124540/Far_Far_West/) | Looter shooter western | 96% | 19,000 | Apr 28, 2026 | n/a |
-| [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/) | Underwater survival crafter | 93% | 6,000 | May 14, 2026 | n/a |
-| [Windblown](https://store.steampowered.com/app/1911610/Windblown/) | Hack and slash roguelite | 92% | 4,000 | Oct 24, 2024 | n/a |
-| [Swords 'n Magic and Stuff](https://store.steampowered.com/app/810040/Swords_n_Magic_and_Stuff/) | Open world RPG adventure | 92% | 800 | Sep 8, 2020 | n/a |
-| [Vein](https://store.steampowered.com/app/1857950/VEIN/) | Zombie survival crafter | 90% | 7,000 | Oct 24, 2025 | n/a |
-| [Windrose](https://store.steampowered.com/app/3041230/Windrose/) | Pirate survival crafter | 88% | 24,000 | Apr 14, 2026 | n/a |
-| [Fast Food Simulator](https://store.steampowered.com/app/2916430/Fast_Food_Simulator/) | Fast food restaurant simulator | 88% | 4,000 | Dec 10, 2024 | n/a |
-| [Romestead](https://store.steampowered.com/app/1805320/Romestead/) | Rome survival adventure | 88% | 1,000 | May 25, 2026 | n/a |
-| [Cure - A Hospital Simulator](https://store.steampowered.com/app/2786550/CURE__A_Hospital_Simulator/) | Post-apocalyptic hospital sim | 88% | 600 | Nov 20, 2025 | n/a |
-| [Grounded 2](https://store.steampowered.com/app/2661300/Grounded_2/) | Sequel to Grounded | 86% | 13,000 | Jul 29, 2025 | n/a |
-| [Breathedge 2](https://store.steampowered.com/app/2412960/Breathedge_2/) | Space survival crafter | 86% | 1,000 | Aug 31, 2026 | n/a |
-| [Aloft](https://store.steampowered.com/app/1660080/Aloft/) | Floating island survival crafter | 84% | 2,000 | Jan 15, 2025 | n/a |
-| [Six Days in Fallujah](https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/) | Realistic military FPS | 83% | 9,000 | Jun 22, 2023 | n/a |
-| [Witchspire](https://store.steampowered.com/app/2679100/Witchspire/) | Witch survival adventure | 82% | 2,000 | Jun 10, 2026 | n/a |
-| [Smalland: Survive the Wilds](https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/) | Minature open world survival | 81% | 4,000 | Feb 15, 2024 | n/a |
-| [Solarpunk](https://store.steampowered.com/app/1805110/Solarpunk/) | Floating island survival crafter | 81% | 2,000 | Jun 8, 2026 | n/a |
-| [ASKA](https://store.steampowered.com/app/1898300/ASKA/) | Viking open world survival | 79% | 5,000 | Jun 20, 2024 | n/a |
-| [Afterblast](https://store.steampowered.com/app/1338490/AFTERBLAST/) | Action roguelite FPS | 76% | 200 | Nov 26, 2025 | n/a |
-| [Gray Zone Warfare](https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/) | PvE extraction shooter | 74% | 45,000 | Apr 30, 2024 | n/a |
+| [Sandustry](https://store.steampowered.com/app/2764460/Sandustry/) | Open world factory automation | 97% | 3.3k | Aug 13, 2026 | n/a |
+| [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) | Physics horror comedy | 96% | 140.1k | Feb 26, 2025 | n/a |
+| [Far Far West](https://store.steampowered.com/app/3124540/Far_Far_West/) | Looter shooter western | 96% | 20.8k | Apr 28, 2026 | n/a |
+| [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/) | Underwater survival crafter | 93% | 72.6k | May 14, 2026 | n/a |
+| [Windblown](https://store.steampowered.com/app/1911610/Windblown/) | Hack and slash roguelite | 92% | 4.9k | Oct 24, 2024 | n/a |
+| [Swords 'n Magic and Stuff](https://store.steampowered.com/app/810040/Swords_n_Magic_and_Stuff/) | Open world RPG adventure | 92% | 890 | Sep 8, 2020 | n/a |
+| [Vein](https://store.steampowered.com/app/1857950/VEIN/) | Zombie survival crafter | 89% | 8.6k | Oct 24, 2025 | n/a |
+| [Windrose](https://store.steampowered.com/app/3041230/Windrose/) | Pirate survival crafter | 88% | 28.8k | Apr 14, 2026 | n/a |
+| [Romestead](https://store.steampowered.com/app/1805320/Romestead/) | Rome survival adventure | 88% | 1.4k | May 25, 2026 | n/a |
+| [Cure - A Hospital Simulator](https://store.steampowered.com/app/2786550/CURE__A_Hospital_Simulator/) | Post-apocalyptic hospital sim | 87% | 866 | Nov 20, 2025 | n/a |
+| [Grounded 2](https://store.steampowered.com/app/2661300/Grounded_2/) | Sequel to Grounded | 86% | 13.3k | Jul 29, 2025 | n/a |
+| [Breathedge 2](https://store.steampowered.com/app/2412960/Breathedge_2/) | Space survival crafter | 86% | 1.7k | Aug 31, 2026 | n/a |
+| [Fast Food Simulator](https://store.steampowered.com/app/2916430/Fast_Food_Simulator/) | Fast food restaurant simulator | 85% | 4.5k | Dec 10, 2024 | n/a |
+| [Aloft](https://store.steampowered.com/app/1660080/Aloft/) | Floating island survival crafter | 84% | 2.0k | Jan 15, 2025 | n/a |
+| [Witchspire](https://store.steampowered.com/app/2679100/Witchspire/) | Witch survival adventure | 82% | 1.9k | Jun 10, 2026 | n/a |
+| [Six Days in Fallujah](https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/) | Realistic military FPS | 81% | 9.6k | Jun 22, 2023 | n/a |
+| [Smalland: Survive the Wilds](https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/) | Minature open world survival | 81% | 4.4k | Feb 15, 2024 | n/a |
+| [Solarpunk](https://store.steampowered.com/app/1805110/Solarpunk/) | Floating island survival crafter | 81% | 2.0k | Jun 8, 2026 | n/a |
+| [ASKA](https://store.steampowered.com/app/1898300/ASKA/) | Viking open world survival | 79% | 5.7k | Jun 20, 2024 | n/a |
+| [Afterblast](https://store.steampowered.com/app/1338490/AFTERBLAST/) | Action roguelite FPS | 76% | 225 | Nov 26, 2025 | n/a |
+| [Gray Zone Warfare](https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/) | PvE extraction shooter | 74% | 47.1k | Apr 30, 2024 | n/a |
 
 ---
 
