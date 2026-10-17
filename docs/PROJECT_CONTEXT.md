@@ -63,7 +63,7 @@ This file holds **working context for future chats**, separate from the reader-f
 | 1338490 | Afterblast | 76% | 225 | All-time |
 | 2479810 | Gray Zone Warfare | 74% | 47,067 | English |
 
-## Early Access start/end audit — October 16, 2026
+## Early Access start/end audit — October 16, 2026 (historical, before reclassification)
 
 - **Coverage:** Checked all 21 Early Access rows against their Steam product listings and developers' Early Access statements, plus official announcements where relevant. All original **Start** dates were consistent with Steam's Early Access launch dates **except Smalland and Solarpunk**. This audit changes *only* the `Start` and `End` columns in `games/README.md`, leaving review values, row order, descriptions and other sections intact.
 - **Conventions:** `Start` = launch *into Early Access* on Steam; `End` = actual full-release date (for completed Early Access) or current developer-stated full-release timing. `(planned)` = explicit developer calendar target (not a guarantee); `(est.)` = calendar window **derived from the developer's stated Early Access duration** and the verified start date (not a promised release date). Use `n/a` where no meaningful current target exists. Never interpret a minimum duration, an expired estimate or a product's launch directly into 1.0 as a confirmed Early Access end date.
@@ -96,10 +96,35 @@ This file holds **working context for future chats**, separate from the reader-f
 | [AFTERBLAST](https://store.steampowered.com/app/1338490/AFTERBLAST/) | n/a | No time-bound developer target. |
 | [Gray Zone Warfare](https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/) | n/a | Developer gives only "several years," with no narrower current period. |
 
+## Early Access classification and compact End dates — October 16, 2026
+
+- Rechecked all 21 titles in the then-current Early Access section against their current Steam product listings. **19** retain Steam's Early Access status; **2** do not and have been transferred to Possible Games:
+  - **Smalland: Survive the Wilds** — Early Access began Mar 29, 2023 and ended with full 1.0 release **Feb 15, 2024**. Steam: https://store.steampowered.com/app/768200/.
+  - **Solarpunk** — launched directly as 1.0 **Jun 8, 2026**, without a Steam Early Access phase. Steam: https://store.steampowered.com/app/1805110/; publisher press kit: https://www.metaroot.ch/press-kit/solarpunk.
+- **Current section totals:** 73 Possible Games, 19 Early Access, 5 Coming Soon (**97 distinct game rows** overall). Moved games retain their October 16 review scores and display counts (Smalland: 81%, 4.4k; Solarpunk: 81%, 2.0k). Inserted below RuneScape: Dragonwilds in Possible Games, correctly positioned under the existing rating/count ordering; no Steam review values were re-fetched.
+- **Compact `End` display rule:** omit `(est.)` and `(planned)` from the catalog. When a developer quoted a range, display **only the final/high end** of that range (for example 2028–2029 becomes `2029`, Late 2027–Late 2028 becomes `Late 2028`). The catalog's brevity **does not make estimates guaranteed release dates**. `Start` remains the historic EA entry date; `n/a` still means no usable current end date. Keep full date provenance in this document.
+- The abbreviated End values, with their underlying meanings, are:
+
+| Game | Catalog End | Nature of underlying timing |
+| :--- | :--- | :--- |
+| Sandustry | Aug 2027 | Derived from ~1 year EA duration after Aug 13, 2026 |
+| Far Far West | Apr 2027 | Derived from ~12 months EA duration after Apr 28, 2026 |
+| Subnautica 2 | 2029 | Upper end of estimated 2028–2029 based on ~2–3 years EA |
+| Windblown | 2026 | Explicit developer 1.0 year target |
+| VEIN | 2030 | Conditional ~5-year feature-completion estimate assuming full-time work; not a firm 1.0 promise |
+| Windrose | Late 2028 | Upper end of derived Late 2027–Late 2028 window (~1.5–2.5 years EA) |
+| Romestead | 2028 | Upper end of derived 2027–2028 window (~1–2 years EA) |
+| CURE - A Hospital Simulator | Late 2027 | Upper end of derived Late 2026–Late 2027 window (~12–24 months EA) |
+| Breathedge 2 | Spring 2028 | Upper end of derived Late 2027–Spring 2028 window (~16–20 months EA) |
+| Six Days in Fallujah | Late 2026 | Explicit updated developer roadmap target |
+
+- All other 9 remaining Early Access rows keep `End = n/a`. The game descriptions, Steam links, percentages, review counts, start dates, and the relative order of remaining Early Access entries are unchanged. Coming Soon is untouched.
+- **Standing workflow:** Future Steam review refreshes still automatically re-sort their affected tables. Release-status moves alone retain the current figures but insert newly moved games at the appropriate position. Every proposed repository update is a ZIP containing changed files, plus a suggested commit message; never modify GitHub directly.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
-- **Early Access dates/status:** The 21 entries had their EA start dates and developer 1.0 timing audited October 16, 2026; Smalland and Solarpunk are flagged for reclassification, deliberately deferred. Dates in Possible Games and Coming Soon are not yet audited. Developer windows may change and should be rechecked before relying on them.
+- **Early Access dates/status:** All 21 original entries had their EA start dates and developer 1.0 timing audited October 16, 2026; Smalland and Solarpunk have now moved to Possible Games, leaving 19 Early Access games. Dates in Possible Games and Coming Soon are not yet audited. Developer windows may change and should be rechecked before relying on them.
 - **Three-player compatibility**, play modes, dedicated servers, and other gameplay suitability details have **not** been audited. Being listed does not guarantee a game supports three players in co-op.
 - **Descriptions and non-Steam availability** have not been independently reviewed. Possible Games and Early Access are sorted by review metrics, which is not a recommendation ranking.
 - The other worksheets in the original spreadsheet were intentionally **out of scope** for this first version.
