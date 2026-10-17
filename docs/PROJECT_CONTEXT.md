@@ -163,6 +163,14 @@ This file holds **working context for future chats**, separate from the reader-f
 - Because the current GitHub version still had the old Coming Soon sort, this ZIP is **cumulative** with the pending October 16 earliest-first sorting correction. The active rule is earliest first; unknown `n/a` titles last, alphabetized. Future assistants must use the current root README instructions and not historical latest-first notes above.
 - **Standing workflow:** All changes are delivered as a ZIP of repository-relative files with a suggested commit message. GitHub is read-only for the assistant; the owner commits manually. If these conventions change, update this context and root README in the same ZIP.
 
+## Played month/year dates — October 16, 2026
+
+- The owner provided a `When` date for each of the **23 Played entries**. Added `When` as the final column after `Game` and `Who` and preserved all names, links, Who attributions and existing row order.
+- Date format is **`MMM YYYY`** (e.g. `Sep 2026`). These months/years were **supplied by the owner**, not independently cross-checked against Steam. Do not infer they are exact first-launch timestamps or first group co-op session dates. For future changes, retain the user's supplied precision; avoid inventing days.
+- No sorting of Played has been requested. Do not re-sort it when dates are changed unless explicitly instructed. Other catalog sections, review data, and release timelines were not modified.
+- The 23 dates, keyed to the existing game rows, are recorded in `games/README.md`. They range from **Oct 2021** (Halo: The Master Chief Collection) to **Sep 2026** (Escape Simulator).
+- Workflow continuity: Future repo edits still require a ZIP containing only changed repository files, plus a suggested manual commit message. GitHub remains read-only for assistants.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
