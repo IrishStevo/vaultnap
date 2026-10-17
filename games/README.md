@@ -2,7 +2,7 @@
 
 A shortlist of games for **three friends** playing together on **Windows 11 gaming PCs**. Most links lead to Steam, but games from other PC stores are welcome.
 
-**Browse:** [Possible Games](#possible-games) · [Early Access](#early-access) · [Coming Soon](#coming-soon)
+**Browse:** [Possible Games](#possible-games) · [Early Access](#early-access) · [Coming Soon](#coming-soon) · [Played](#played)
 
 ---
 
@@ -132,3 +132,35 @@ Games that have not yet been released, including into Early Access.
 | [Guild Wars 3](https://store.steampowered.com/app/4743930/Guild_Wars_3/) | Fantasy MMORPG | n/a |
 | [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | Action adventure shooter | n/a |
 | [Light No Fire](https://store.steampowered.com/app/2719590/Light_No_Fire/) | Massive open world adventure | n/a |
+
+---
+
+## Played
+
+Games we have played together.
+
+| Game | Who |
+| :--- | :--- |
+| [Escape Simulator](https://store.steampowered.com/app/1435790/Escape_Simulator/) | Tony |
+| [Halo: Campaign Evolved](https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/) | Tony |
+| [Payday 2](https://store.steampowered.com/app/218620/PAYDAY_2/) | Errol |
+| [Ghost Recon Wildlands](https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/) | Steve |
+| [Golf With Your Friends](https://store.steampowered.com/app/431240/Golf_With_Your_Friends/) | Tony |
+| [Super Battle Golf](https://store.steampowered.com/app/4069520/Super_Battle_Golf/) | Tony |
+| [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/) | Errol |
+| [Schedule I](https://store.steampowered.com/app/3164500/Schedule_I/) | Steve |
+| [The Planet Crafter](https://store.steampowered.com/app/1284190/The_Planet_Crafter/) | Tony |
+| [The Division](https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/) | Steve |
+| [Warhammer 40,000: Space Marine 2](https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/) | Errol |
+| [Terraria](https://store.steampowered.com/app/105600/Terraria/) | Tony |
+| [Grounded](https://store.steampowered.com/app/962130/Grounded/) | Steve |
+| [Helldivers 2](https://store.steampowered.com/app/553850/HELLDIVERS_2/) | Errol |
+| [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/) | Tony |
+| [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) | Steve |
+| [Sea of Thieves](https://store.steampowered.com/app/1172620/Sea_of_Thieves_2026_Edition/) | Steve |
+| [Destiny 2](https://store.steampowered.com/app/1085660/Destiny_2/) | Tony |
+| [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) | Errol |
+| [Civilization VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/) | Tony |
+| [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/) | Steve |
+| [Halo: The Master Chief Collection](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/) | Tony |
+| [Torchlight II](https://store.steampowered.com/app/200710/Torchlight_II/) | Errol |

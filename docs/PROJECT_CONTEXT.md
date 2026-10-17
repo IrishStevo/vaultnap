@@ -154,13 +154,22 @@ This file holds **working context for future chats**, separate from the reader-f
 - No dates or Early Access markers were revised. No entries moved between sections; all game descriptions, links, and review figures are unchanged. This ordering rule is permanent and must be applied after every future Coming Soon date refresh. The previous latest-first order recorded above is **historical, not current guidance**.
 - As always: GitHub is read-only for the assistant; changes are delivered as a ZIP with repository-relative paths and a suggested commit message for the owner to commit manually.
 
+## Played worksheet import — October 16, 2026
+
+- Imported the `Played` worksheet from `VaultNap Games List.xlsx` as the **fourth and final** section of `games/README.md`, **after Coming Soon**. There are **23 game rows**, corresponding to source rows **6–28**.
+- The worksheet has two columns, **Game** and **Who**. Rows 1 and 3–5 were blank in Game (row 2 is the header), so those preliminary rows were excluded, as requested. Preserve the relative order of all 23 nonblank Game rows (no sorting) and the exact Who values (Tony, Errol, Steve).
+- All 23 Game cells contain linked Steam storefront URLs; copied those hyperlinks to the new Markdown table without changing game titles, people, or links. No research, review refresh, new-game validation, deduplication or categorization was done.
+- **Current layout:** 73 Possible Games, 19 Early Access, 5 Coming Soon (97 candidate rows), plus **23 Played entries**. Played is a historical list, not a fourth group of candidate games; games may appear in Played as well as elsewhere unless a later user-approved cleanup changes that.
+- Because the current GitHub version still had the old Coming Soon sort, this ZIP is **cumulative** with the pending October 16 earliest-first sorting correction. The active rule is earliest first; unknown `n/a` titles last, alphabetized. Future assistants must use the current root README instructions and not historical latest-first notes above.
+- **Standing workflow:** All changes are delivered as a ZIP of repository-relative files with a suggested commit message. GitHub is read-only for the assistant; the owner commits manually. If these conventions change, update this context and root README in the same ZIP.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
 - **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries. All 5 Coming Soon entries had their release timing audited on October 16, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
 - **Three-player compatibility**, play modes, dedicated servers, and other gameplay suitability details have **not** been audited. Being listed does not guarantee a game supports three players in co-op.
 - **Descriptions and non-Steam availability** have not been independently reviewed. Possible Games and Early Access are sorted by review metrics, which is not a recommendation ranking.
-- The other worksheets in the original spreadsheet were intentionally **out of scope** for this first version.
+- All four source worksheets have now been imported; `Played` was added after the three candidate sections. Historical counts above describe the earlier three-section baseline.
 
 ## Future workflow
 
