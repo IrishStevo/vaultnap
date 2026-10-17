@@ -94,9 +94,9 @@ Games currently considered ready for us to play.
 
 Games in Early Access that may need more development before we play.
 
-*Percent* and *Count* show Steam’s all-time user review figures (English-language where available; updated October 16, 2026). *Start* is the Early Access launch date; *End* is the latest available full-release target or forecast, shown as its upper end when a range was given. Dates may change; `n/a` means no usable current target. Dates reviewed October 16, 2026.
+*Percent* and *Count* show Steam’s all-time user review figures (English-language where available; updated October 16, 2026). *Start* is the Early Access launch date; *Est. End* is the latest available full-release target or forecast, shown as its upper end when a range was given. Dates may change; `n/a` means no usable current target. Dates reviewed October 16, 2026.
 
-| Game | Quick Description | Percent | Count | Start | End |
+| Game | Quick Description | Percent | Count | Start | Est. End |
 | :--- | :--- | ---: | ---: | :--- | :--- |
 | [Sandustry](https://store.steampowered.com/app/2764460/Sandustry/) | Open world factory automation | 97% | 3.3k | Aug 13, 2026 | Aug 2027 |
 | [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) | Physics horror comedy | 96% | 140.1k | Feb 26, 2025 | n/a |
@@ -123,10 +123,12 @@ Games in Early Access that may need more development before we play.
 
 Games that have not yet been released, including into Early Access.
 
+*When* is the latest announced release date or period, using the upper end of any range. Dates are sorted descending (latest first); `n/a` indicates no current release target. Dates reviewed October 16, 2026.
+
 | Game | Quick Description | When |
 | :--- | :--- | :--- |
-| [Outward 2](https://store.steampowered.com/app/2849490/Outward_2/) | Open world survival RPG | 2027 |
-| [Call of Duty: Modern Warfare 4](https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/) | Multiplayer PVP FPS | Oct 22 2026 |
-| [Light No Fire](https://store.steampowered.com/app/2719590/Light_No_Fire/) | Massive open world adventure | TBA |
-| [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | Action adventure shooter | TBA |
-| [Guild Wars 3](https://store.steampowered.com/app/4743930/Guild_Wars_3/) | Fantasy MMORPG | TBA |
+| [Outward 2](https://store.steampowered.com/app/2849490/Outward_2/) | Open world survival RPG | Feb 8, 2027 |
+| [Call of Duty: Modern Warfare 4](https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/) | Multiplayer PVP FPS | Oct 23, 2026 |
+| [Light No Fire](https://store.steampowered.com/app/2719590/Light_No_Fire/) | Massive open world adventure | n/a |
+| [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | Action adventure shooter | n/a |
+| [Guild Wars 3](https://store.steampowered.com/app/4743930/Guild_Wars_3/) | Fantasy MMORPG | n/a |
