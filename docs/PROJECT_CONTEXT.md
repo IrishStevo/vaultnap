@@ -63,10 +63,43 @@ This file holds **working context for future chats**, separate from the reader-f
 | 1338490 | Afterblast | 76% | 225 | All-time |
 | 2479810 | Gray Zone Warfare | 74% | 47,067 | English |
 
+## Early Access start/end audit — October 16, 2026
+
+- **Coverage:** Checked all 21 Early Access rows against their Steam product listings and developers' Early Access statements, plus official announcements where relevant. All original **Start** dates were consistent with Steam's Early Access launch dates **except Smalland and Solarpunk**. This audit changes *only* the `Start` and `End` columns in `games/README.md`, leaving review values, row order, descriptions and other sections intact.
+- **Conventions:** `Start` = launch *into Early Access* on Steam; `End` = actual full-release date (for completed Early Access) or current developer-stated full-release timing. `(planned)` = explicit developer calendar target (not a guarantee); `(est.)` = calendar window **derived from the developer's stated Early Access duration** and the verified start date (not a promised release date). Use `n/a` where no meaningful current target exists. Never interpret a minimum duration, an expired estimate or a product's launch directly into 1.0 as a confirmed Early Access end date.
+- **Important classification issues (left for owner's separate approval):** **Smalland: Survive the Wilds** actually started Early Access **Mar 29, 2023**, then launched 1.0 **Feb 15, 2024**. Both dates are now recorded; it no longer belongs in Early Access. **Solarpunk** launched directly into **1.0 on Jun 8, 2026** without Steam Early Access (confirmed by the publisher's press kit and developer release announcement). The original `Start` was actually its full-release date; `Start` and `End` are both now `n/a` because neither Early Access date applies. Both rows stay in their existing section until the owner requests reclassification. [Smalland Steam](https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/), [Solarpunk publisher press kit](https://www.metaroot.ch/press-kit/solarpunk), [Solarpunk developer release announcement](https://www.solarpunk.tools/news/solarpunk-finally-has-a-release-date).
+- **Outdated developer targets:** R.E.P.O.'s original ~18-month target from Feb 2025 would put 1.0 around Aug 2026, but the game remains in Early Access; no newer reliable date was found. Fast Food Simulator's original ~6–12 months from Dec 2024 lapsed in 2025; ASKA's 2025 plan lapsed; Six Days in Fallujah's EA FAQ still says late 2025, but its **newer on-page roadmap targets late 2026** (used in the catalog). Older or ambiguous estimates were not substituted as current release targets.
+- **Other non-committal statements:** Aloft and Witchspire give a **minimum** stay (at least one year), not a release date; Swords 'n Magic and Stuff uses an unanchored "at least one more year"; Grounded 2 and AFTERBLAST provide no target; Gray Zone Warfare says "several years." Their `End` remains `n/a` unless an actionable current developer date/window is found.
+- **Scope boundary:** Steam review percentages/counts **were not refreshed** in this timeline audit. The established rating-based order in Early Access and Possible Games was retained. A separate compatibility audit should note that Steam currently lists Sandustry as single-player only; no multiplayer verification was requested or performed comprehensively.
+
+| Game | End recorded | Developer evidence and interpretation |
+| :--- | :--- | :--- |
+| [Sandustry](https://store.steampowered.com/app/2764460/Sandustry/) | Aug 2027 (est.) | Developer plans ~1 year of Early Access beginning Aug 13, 2026. |
+| [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) | n/a | Around 18 months estimated at original launch; resulting Aug 2026 target has elapsed while game is still EA. |
+| [Far Far West](https://store.steampowered.com/app/3124540/Far_Far_West/) | Apr 2027 (est.) | Developer plans 12 months from Apr 28, 2026. |
+| [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/) | 2028–2029 (est.) | Developer expects approximately 2–3 years of EA from May 14, 2026. |
+| [Windblown](https://store.steampowered.com/app/1911610/Windblown/) | 2026 (planned) | Motion Twin explicitly targets an exit sometime in 2026. |
+| [Swords 'n Magic and Stuff](https://store.steampowered.com/app/810040/Swords_n_Magic_and_Stuff/) | n/a | No reliably dated current release window; 'at least 1 more year' is not a calendar target. |
+| [VEIN](https://store.steampowered.com/app/1857950/VEIN/) | 2030 (est.) | Developer estimates roughly five years to feature-completion **if working full time**, from Oct 2025; highly conditional. |
+| [Windrose](https://store.steampowered.com/app/3041230/Windrose/) | Late 2027–Late 2028 (est.) | Developer anticipates ~1.5–2.5 years from Apr 14, 2026. |
+| [Romestead](https://store.steampowered.com/app/1805320/Romestead/) | 2027–2028 (est.) | Developer anticipates ~1–2 years from May 25, 2026. |
+| [CURE - A Hospital Simulator](https://store.steampowered.com/app/2786550/CURE__A_Hospital_Simulator/) | Late 2026–Late 2027 (est.) | Developer currently states ~12–24 months from Nov 20, 2025. |
+| [Grounded 2](https://store.steampowered.com/app/2661300/Grounded_2/) | n/a | Obsidian explicitly declines a hard timeline. |
+| [Breathedge 2](https://store.steampowered.com/app/2412960/Breathedge_2/) | Late 2027–Spring 2028 (est.) | Developer expects ~16–20 months from Aug 31, 2026. |
+| [Fast Food Simulator](https://store.steampowered.com/app/2916430/Fast_Food_Simulator/) | n/a | Original 6–12 month estimate from Dec 2024 has passed, with no verified replacement. |
+| [Aloft](https://store.steampowered.com/app/1660080/Aloft/) | n/a | "At least a year" from Jan 2025 is a minimum, now elapsed. |
+| [Witchspire](https://store.steampowered.com/app/2679100/Witchspire/) | n/a | "At least a year" from Jun 2026 gives only a minimum, not a forecast date. |
+| [Six Days in Fallujah](https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/) | Late 2026 (planned) | Updated developer roadmap on the same Steam page supersedes an older late-2025 FAQ. |
+| [Smalland: Survive the Wilds](https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/) | Feb 15, 2024 | Actual 1.0 exit; **Start corrected to Mar 29, 2023**. |
+| [Solarpunk](https://www.metaroot.ch/press-kit/solarpunk) | n/a | No Early Access phase; launched directly as 1.0 on Jun 8, 2026. |
+| [ASKA](https://store.steampowered.com/app/1898300/ASKA/) | n/a | 2025 full-release plan has lapsed; game still in EA in Oct 2026. |
+| [AFTERBLAST](https://store.steampowered.com/app/1338490/AFTERBLAST/) | n/a | No time-bound developer target. |
+| [Gray Zone Warfare](https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/) | n/a | Developer gives only "several years," with no narrower current period. |
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
-- **Release status and dates** may also be outdated; entries have not been reclassified based on current store information.
+- **Early Access dates/status:** The 21 entries had their EA start dates and developer 1.0 timing audited October 16, 2026; Smalland and Solarpunk are flagged for reclassification, deliberately deferred. Dates in Possible Games and Coming Soon are not yet audited. Developer windows may change and should be rechecked before relying on them.
 - **Three-player compatibility**, play modes, dedicated servers, and other gameplay suitability details have **not** been audited. Being listed does not guarantee a game supports three players in co-op.
 - **Descriptions and non-Steam availability** have not been independently reviewed. Possible Games and Early Access are sorted by review metrics, which is not a recommendation ranking.
 - The other worksheets in the original spreadsheet were intentionally **out of scope** for this first version.
