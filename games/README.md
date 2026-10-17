@@ -123,11 +123,11 @@ Games in Early Access that may need more development before we play.
 
 Games that have not yet been released, including into Early Access.
 
-*When* is the latest announced release date or period, using the upper end of any range. Dates are sorted descending (latest first); `n/a` indicates no current release target. Dates reviewed October 16, 2026.
+*When* is the latest announced first public release date or period, using the upper end of any range. `EA` identifies a planned Early Access launch. Dates are sorted descending (latest first); `n/a` means no current usable release date. Dates reviewed October 16, 2026.
 
 | Game | Quick Description | When |
 | :--- | :--- | :--- |
-| [Outward 2](https://store.steampowered.com/app/2849490/Outward_2/) | Open world survival RPG | Feb 8, 2027 |
+| [Outward 2](https://store.steampowered.com/app/2849490/Outward_2/) | Open world survival RPG | EA Feb 8, 2027 |
 | [Call of Duty: Modern Warfare 4](https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/) | Multiplayer PVP FPS | Oct 23, 2026 |
 | [Light No Fire](https://store.steampowered.com/app/2719590/Light_No_Fire/) | Massive open world adventure | n/a |
 | [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | Action adventure shooter | n/a |

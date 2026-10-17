@@ -136,6 +136,16 @@ This file holds **working context for future chats**, separate from the reader-f
 | [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | TBA | **n/a** | [Steam](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) shows Coming soon; [Guerrilla's announcement](https://www.guerrilla-games.com/read/announcing-horizon-hunters-gathering) and later [playtest update](https://blog.playstation.com/2026/05/05/horizon-hunters-gathering-second-playtest-new-hunters-episode-region-revealed/) give no public release window. Playtests are not launches. |
 | [Guild Wars 3](https://store.steampowered.com/app/4743930/Guild_Wars_3/) | TBA | **n/a** | [ArenaNet / NCSoft announcement, June 2026](https://about.ncsoft.com/en/news/article/nc_update_260606) announced a **fall 2027 beta**, not a public release. [Steam](https://store.steampowered.com/app/4743930) shows To be announced; do not equate the beta's date with the release date. |
 
+
+## Coming Soon Early Access prefix — October 16, 2026
+
+- **User-approved display:** In Coming Soon, put `EA ` before the `When` date/period **only when the first public game release is explicitly confirmed by the developer/publisher as an Early Access launch**. Examples: `EA Feb 8, 2027`, `EA Late 2027`. Otherwise keep the ordinary full-release date/period or `n/a` if no timing is known. For range-based dates, use only the latest endpoint as before.
+- **Verified change:** **Outward 2** becomes `EA Feb 8, 2027`. Nine Dots Studio confirmed its first public release is PC Early Access on February 8; its announcement was dated October 8, 2026: https://www.ninedotsstudio.com/news/outward-2-new-release-date . Steam may display February 7 depending on time zone, but the developer-announced date governs.
+- **Not Early Access:** **Call of Duty: Modern Warfare 4** remains `Oct 23, 2026` (developer-stated global full launch). Steam lists preorder **campaign** early access on Oct 16 and DMZ early access on Oct 20; these are advance game/mode access for buyers, **not a release into Steam Early Access**, so no `EA` prefix: https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/ .
+- **Unknown timing:** Light No Fire, Horizon Hunters Gathering, and Guild Wars 3 stay `n/a`. A beta/playtest date does not qualify as a first public Early Access launch. Do not display `EA n/a`.
+- **Sorting:** Continue sorting Coming Soon latest-first by the underlying announced calendar date or period, **ignoring `EA`**, with `n/a` last. This display change does not alter row order.
+- **Scope:** Only the Outward 2 date marker and reader-facing explanation in `games/README.md` change; no game is transferred between sections. Steam review data and the other game tables are untouched. Root README instructions updated so new chats apply the same convention.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
