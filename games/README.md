@@ -155,12 +155,12 @@ Games we have played together.
 | [Terraria](https://store.steampowered.com/app/105600/Terraria/) | Tony | Nov 2024 |
 | [Grounded](https://store.steampowered.com/app/962130/Grounded/) | Steve | Aug 2024 |
 | [Helldivers 2](https://store.steampowered.com/app/553850/HELLDIVERS_2/) | Errol | Mar 2024 |
-| [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/) | Tony | Nov 2023 |
-| [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) | Steve | May 2023 |
-| [Sea of Thieves](https://store.steampowered.com/app/1172620/Sea_of_Thieves_2026_Edition/) | Steve | Feb 2022 |
-| [Destiny 2](https://store.steampowered.com/app/1085660/Destiny_2/) | Tony | Aug 2022 |
-| [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) | Errol | Jan 2023 |
 | [Civilization VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/) | Tony | Jan 2024 |
 | [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/) | Steve | Dec 2023 |
-| [Halo: The Master Chief Collection](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/) | Tony | Oct 2021 |
+| [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/) | Tony | Nov 2023 |
+| [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/) | Steve | May 2023 |
+| [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) | Errol | Jan 2023 |
+| [Destiny 2](https://store.steampowered.com/app/1085660/Destiny_2/) | Tony | Aug 2022 |
+| [Sea of Thieves](https://store.steampowered.com/app/1172620/Sea_of_Thieves_2026_Edition/) | Steve | Feb 2022 |
 | [Torchlight II](https://store.steampowered.com/app/200710/Torchlight_II/) | Errol | Nov 2021 |
+| [Halo: The Master Chief Collection](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/) | Tony | Oct 2021 |

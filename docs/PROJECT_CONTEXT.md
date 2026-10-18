@@ -171,6 +171,13 @@ This file holds **working context for future chats**, separate from the reader-f
 - The 23 dates, keyed to the existing game rows, are recorded in `games/README.md`. They range from **Oct 2021** (Halo: The Master Chief Collection) to **Sep 2026** (Escape Simulator).
 - Workflow continuity: Future repo edits still require a ZIP containing only changed repository files, plus a suggested manual commit message. GitHub remains read-only for assistants.
 
+## Played sorting — October 17, 2026
+
+- **Current authoritative rule:** Sort the `Played` table in `games/README.md` by the owner-supplied `When` month/year **descending (most recent first)**. Break ties alphabetically by game name, case-insensitively. Apply this sort automatically whenever Played dates or entries are updated. Earlier instructions preserving original worksheet row order and not sorting are superseded.
+- Reordered all **23 Played rows** with their unchanged Game names, Steam links, `Who` values, and `When` dates. The sorting moves **Civilization VI, Elden Ring, Satisfactory, Destiny 2, and Torchlight II** into the appropriate positions; the rest retain their relative date grouping.
+- `When` values retain `MMM YYYY` precision, are supplied by the owner, and should not be mistaken for independently verified Steam first-played dates. No changes to Possible Games, Early Access, or Coming Soon.
+- **Delivery:** This update includes only the changed `games/README.md`, root `README.md` instruction, and this project-context file. The owner commits manually; GitHub access stays strictly read-only for assistants.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
