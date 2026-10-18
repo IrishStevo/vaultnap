@@ -2,7 +2,27 @@
 
 This file holds **working context for future chats**, separate from the reader-facing [game list](../games/README.md). The root [README](../README.md#chatgpt-instructions) contains the authoritative collaboration rules; re-read it before repo work.
 
-## Project status — October 16, 2026
+## Current state — October 18, 2026
+
+**This section is the current handoff.** The dated entries below it are retained as a chronological history; older statements about counts, row order, unfinished work, or changed-files-only ZIPs are **historical and superseded** by the root [ChatGPT Instructions](../README.md#chatgpt-instructions), [Update games runbook](UPDATE_GAMES.md), and the current [game catalog](../games/README.md).
+
+| Catalog section | Active rows | Sorting |
+| :--- | ---: | :--- |
+| Possible Games | **80** | Review Percent descending, then exact review count descending |
+| Early Access | **17** | Review Percent descending, then exact review count descending |
+| Coming Soon | **4** | Soonest first; `n/a` last, alphabetically |
+| Played | **23** | Most recent `When` first; alphabetical title ties |
+
+- **101 active candidates** across the first three sections; **124 rows** including Played history. Sections are not guaranteed to be mutually exclusive with Played, which is historical.
+- **Reviews:** The [review snapshot](REVIEW_SNAPSHOT.md) now covers **all 97 active review-bearing entries**, with exact Steam counts and **per-game provenance dates**: 85 active games last checked October 17, 2026, and the 12 additions checked October 18, 2026. Seven removed games remain in a clearly separate historical table. No Steam reviews were re-queried by this documentation cleanup.
+- **Release timelines:** The last documented Early Access and Coming Soon status/date review was **October 17, 2026**. These are not independently refreshed by this documentation-only audit.
+- **Exclusions:** Eight explicitly removed candidate games and eight declined discovery suggestions are listed in their historical sections below. Don't reintroduce or re-suggest them without explicit owner approval.
+- **Compatibility:** Native three-person co-op is an important group requirement; a comprehensive mode-by-mode check of every active candidate remains outstanding. New games require an appropriate three-person cooperative mode without unsupported mods.
+- **Packaging:** Every proposed repository update is a **ZIP including all Markdown documentation**, even unchanged files, plus any changed non-documentation files and a suggested commit message. The owner merges it into the existing repository and commits manually. GitHub access by the assistant is read-only.
+
+## Historical decisions and audits (chronological)
+
+## Project status — October 16, 2026 (historical import baseline)
 
 - **Repository:** `IrishStevo/vaultnap` (default branch: `main`).
 - **Purpose:** Find potential PC games for three friends to play together, primarily via Steam, on Windows 11 gaming PCs. Other PC storefronts are acceptable when needed.
@@ -259,19 +279,27 @@ The owner explicitly requested removal of these **eight** games after a review o
 - **Owner instruction (supersedes all earlier changed-files-only guidance):** Every future repository update ZIP must include **the complete set of Markdown documentation files** from the current repo, including unchanged files. Always include root `README.md` and `AGENTS.md`, `games/README.md`, every existing `docs/*.md` (including `docs/UPDATE_GAMES.md`, `docs/PROJECT_CONTEXT.md`, and `docs/REVIEW_SNAPSHOT.md`), plus any newly created documentation in the future. Include changed non-documentation files if needed. Respect the exact repository-relative paths.
 - This archive **repackages the already-approved 12 fully released co-op game additions** from the immediately preceding update, rather than conducting another Steam review refresh. Starting from the latest GitHub state (68 Possible / 17 Early Access / 4 Coming Soon / 23 Played), it adds the same 12 titles to Possible Games to reach 80. All existing review figures, game links, descriptions, dates, and ordering rules are otherwise preserved. Avoid double-applying the additions if they have already been committed.
 - The latest GitHub `docs/UPDATE_GAMES.md` was re-read and retained with its existing intentional-exclusion guidance, then only its packaging section was revised for the new rule. The latest GitHub `AGENTS.md` is included and its documentation handoff text is updated to reflect the new packaging rule.
-- `docs/REVIEW_SNAPSHOT.md` was **not present** on GitHub when this replacement package was prepared, despite references in the instructions. Restored it from the previous October 17, 2026 Update games ZIP, keeping its **historical October 17 source data** unchanged. It is not a new October 18 review refresh; new additions' exact October 18 counts remain documented above in this context.
+- When this replacement package was prepared, `docs/REVIEW_SNAPSHOT.md` was restored from the October 17, 2026 Update games ZIP. **Subsequent documentation audit (October 18):** its active table was reconciled with all **97** current review-bearing games and the exact October 18 figures for the twelve additions; seven excluded games were moved into a historical-only table. The underlying review values were not refreshed in the audit; their separate October 17/18 check dates are preserved.
 - ZIPs should be **merged into the existing repository root**, overwriting listed files as appropriate but not deleting entire folders. A documentation file being unchanged is not grounds to omit it. GitHub remains read-only to the assistant; only the owner commits.
+
+## Documentation consistency audit — October 18, 2026
+
+- Compared all **six** currently tracked Markdown files against the GitHub `main` file hashes; the latest repository matches the complete-documentation package from October 18.
+- Reconciled `docs/REVIEW_SNAPSHOT.md` to the current active roster: **80 Possible Games + 17 Early Access = 97**, with no missing, duplicate, or differently formatted review figures. Added the **12 previously documented October 18 exact counts** and separated the **seven October 17 records for removed games** into historical-only records. No new Steam reviews were fetched and no prior percentages or counts were revised.
+- Checked all active review rows against the snapshot for Steam app ID, section, percentage, exact count/rounding and ranking. The catalog's four tables total **80/17/4/23** and the two review-bearing tables are correctly sorted. Game data and `games/README.md` remain unchanged.
+- Clarified the current-state handoff, the scope/date of snapshot observations, exclusion handling, mixed date provenance and the permanent **include-all-documentation** ZIP rule. Old notes remain intentionally historical; current instructions take precedence.
+- All repository-relative documentation links were checked locally. No released-game status, multiplayer compatibility, Steam reviews or new Coming Soon dates were independently researched in this documentation-only audit.
 
 ## What has not been checked yet
 
-- **Steam reviews:** Possible Games and Early Access review figures refreshed October 17, 2026; review data for Coming Soon is not tracked. Exact snapshot in `docs/REVIEW_SNAPSHOT.md`.
+- **Steam reviews:** The 85 continuing active review-bearing games were last checked October 17, 2026; 12 newly added Possible Games were checked October 18, 2026. `docs/REVIEW_SNAPSHOT.md` contains the exact counts for all 97 currently active review-bearing games, plus seven intentionally removed games in an archive table. No all-game refresh occurred on October 18; Coming Soon reviews are not tracked.
 - **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries at the time (17 after the subsequent owner-approved removals). All 5 Coming Soon entries had their release timing rechecked on October 17, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
-- **Three-player compatibility** was reviewed preliminarily on October 17, 2026, and eight unsuitable or unwanted candidates were removed; a complete mode-by-mode compatibility audit of the remaining 89 candidates has **not** been performed. Being listed does not guarantee a game supports three players in co-op.
+- **Three-player compatibility** was reviewed preliminarily on October 17, 2026, and eight unsuitable or unwanted candidates were removed; 12 owner-approved three-player co-op games were added October 18. A complete mode-by-mode audit of the currently active **101 candidates** has **not** been performed. Being listed does not guarantee every mode supports three-player co-op.
 - **Descriptions:** 47 descriptions were revised October 17, 2026 using the approved concise gameplay-focused wording. Remaining descriptions retain their original wording; comprehensive external fact-checking and three-player validation are still pending. Non-Steam availability has not been independently reviewed. Possible Games and Early Access are sorted by review metrics, not recommendation rank.
 - All four source worksheets have now been imported; `Played` was added after the three candidate sections. Historical counts above describe the earlier three-section baseline.
 
 ## Future workflow
 
-The owner will point future chats at `https://github.com/IrishStevo/vaultnap`. The assistant should read the current root README instructions, these notes, and the current games list. Agree on specific changes in chat; prepare a ZIP of only the files that should be added/replaced, accompanied by a suggested commit message. **Do not make GitHub changes through a connector or API.** The owner commits manually.
+The owner will point future chats at `https://github.com/IrishStevo/vaultnap`. The assistant should read the latest root README instructions, these notes, the Update games runbook, the review snapshot, and the current game list. Agree on specific changes in chat; prepare a ZIP of **all Markdown documentation files, changed and unchanged**, plus any changed non-documentation files. Provide a suggested commit message. Merge into the existing repo; **do not make GitHub changes through a connector or API**. The owner commits manually.
 
 When the requested data review begins, work in user-directed steps rather than replacing the entire list or imposing new ranking/column schemes without approval. Record consequential decisions and completed checks here after the user decides to include them in a repo update.
