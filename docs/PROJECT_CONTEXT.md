@@ -9,15 +9,15 @@ This file holds **working context for future chats**, separate from the reader-f
 | Catalog section | Active rows | Sorting |
 | :--- | ---: | :--- |
 | Possible Games | **80** | Review Percent descending, then exact review count descending |
-| Early Access | **17** | Review Percent descending, then exact review count descending |
+| Early Access | **28** | Review Percent descending, then exact review count descending |
 | Coming Soon | **4** | Soonest first; `n/a` last, alphabetically |
 | Played | **23** | Most recent `When` first; alphabetical title ties |
 
-- **101 active candidates** across the first three sections; **124 rows** including Played history. Sections are not guaranteed to be mutually exclusive with Played, which is historical.
-- **Reviews:** The [review snapshot](REVIEW_SNAPSHOT.md) now covers **all 97 active review-bearing entries**, with exact Steam counts and **per-game provenance dates**: 85 active games last checked October 17, 2026, and the 12 additions checked October 18, 2026. Seven removed games remain in a clearly separate historical table. No Steam reviews were re-queried by this documentation cleanup.
-- **Release timelines:** The last documented Early Access and Coming Soon status/date review was **October 17, 2026**. These are not independently refreshed by this documentation-only audit.
-- **Exclusions:** Eight explicitly removed candidate games and eight declined discovery suggestions are listed in their historical sections below. Don't reintroduce or re-suggest them without explicit owner approval.
-- **Compatibility:** Native three-person co-op is an important group requirement; a comprehensive mode-by-mode check of every active candidate remains outstanding. New games require an appropriate three-person cooperative mode without unsupported mods.
+- **112 active candidates** across the first three sections; **135 rows** including Played history. Sections are not guaranteed to be mutually exclusive with Played, which is historical.
+- **Reviews:** The [review snapshot](REVIEW_SNAPSHOT.md) now covers **all 108 active review-bearing entries**, with exact Steam counts and **per-game provenance dates**: 85 active games last checked October 17, 2026, and 23 additions checked October 18, 2026. Seven removed games remain in a clearly separate historical table. No Steam reviews were re-queried by this documentation cleanup.
+- **Release timelines:** The original Early Access and Coming Soon roster last had a general status/date review **October 17, 2026**. The eleven newly added Early Access games have individually verified Steam status and launch dates from **October 18, 2026**; existing-game dates and Coming Soon dates were not refreshed in this additions-only task.
+- **Exclusions:** Eight explicitly removed candidate games and fourteen declined discovery suggestions are listed in their historical sections below. Don't reintroduce or re-suggest them without explicit owner approval.
+- **Compatibility:** Native three-person co-op is an important group requirement; a comprehensive mode-by-mode check of every active candidate remains outstanding. New games require an appropriate three-person cooperative mode without unsupported mods. The eleven new Early Access additions have native co-op listings, but modes, progression, and polish can still vary.
 - **Packaging:** Every proposed repository update is a **ZIP including all Markdown documentation**, even unchanged files, plus any changed non-documentation files and a suggested commit message. The owner merges it into the existing repository and commits manually. GitHub access by the assistant is read-only.
 
 ## Historical decisions and audits (chronological)
@@ -290,11 +290,47 @@ The owner explicitly requested removal of these **eight** games after a review o
 - Clarified the current-state handoff, the scope/date of snapshot observations, exclusion handling, mixed date provenance and the permanent **include-all-documentation** ZIP rule. Old notes remain intentionally historical; current instructions take precedence.
 - All repository-relative documentation links were checked locally. No released-game status, multiplayer compatibility, Steam reviews or new Coming Soon dates were independently researched in this documentation-only audit.
 
+
+## Early Access discovery additions — October 18, 2026
+
+- **Owner-approved:** Add the **11** Early Access games below to the existing 17, producing **28 Early Access**, **80 Possible Games**, **4 Coming Soon**, and **23 Played** (**112 active candidates**, **135 total rows**). All 11 were checked against their official Steam Early Access listings on October 18, 2026. No existing game was moved, re-rated, or otherwise changed; Played and Coming Soon are untouched.
+- **Steam reviews:** Added the eleven games' **all-time English-language** review Percent and exact review counts where Steam displayed an English summary, or the **all-time overall** review figures otherwise. Counts below 1,000 are exact; counts at least 1,000 round to one decimal `k` in the catalog. Sorted Early Access by percent descending, exact (unrounded) count descending for ties. Historical observations for the original 97 review-bearing games keep their October 17 or October 18 check dates. Added the new exact counts to `docs/REVIEW_SNAPSHOT.md`, yielding **108 active entries**.
+
+| New game | App ID | Percent | Exact reviews | Scope | EA Start | Est. End | Source |
+| :--- | ---: | ---: | ---: | :--- | :--- | :--- | :--- |
+| [Phasmophobia](https://store.steampowered.com/app/739630/) | 739630 | 94% | 360,324 | English | Sep 18, 2020 | H2 2026 | [Steam](https://store.steampowered.com/app/739630/) |
+| [Jump Space](https://store.steampowered.com/app/1757300/) | 1757300 | 87% | 8,422 | English | Sep 19, 2025 | 2027 | [Steam](https://store.steampowered.com/app/1757300/) |
+| [Bellwright](https://store.steampowered.com/app/1812450/) | 1812450 | 79% | 10,507 | English | Apr 23, 2024 | 2027 | [Steam](https://store.steampowered.com/app/1812450/) |
+| [Deep Rock Galactic: Rogue Core](https://store.steampowered.com/app/2605790/) | 2605790 | 69% | 7,623 | English | May 20, 2026 | May 2028 | [Steam](https://store.steampowered.com/app/2605790/) |
+| [Everwind](https://store.steampowered.com/app/2253100/) | 2253100 | 81% | 1,738 | English | Mar 17, 2026 | n/a | [Steam](https://store.steampowered.com/app/2253100/) |
+| [Lightyear Frontier](https://store.steampowered.com/app/1677110/) | 1677110 | 82% | 2,532 | English | Mar 19, 2024 | Nov 4, 2026 | [Steam](https://store.steampowered.com/app/1677110/) |
+| [Sunkenland](https://store.steampowered.com/app/2080690/) | 2080690 | 83% | 9,117 | English | Aug 25, 2023 | n/a | [Steam](https://store.steampowered.com/app/2080690/) |
+| [Craftopia](https://store.steampowered.com/app/1307550/) | 1307550 | 79% | 7,541 | English | Sep 4, 2020 | n/a | [Steam](https://store.steampowered.com/app/1307550/) |
+| [Saleblazers](https://store.steampowered.com/app/1419850/) | 1419850 | 78% | 1,990 | Overall | Sep 29, 2023 | n/a | [Steam](https://store.steampowered.com/app/1419850/) |
+| [Volcanoids](https://store.steampowered.com/app/951440/) | 951440 | 84% | 4,936 | English | Jan 29, 2019 | n/a | [Steam](https://store.steampowered.com/app/951440/) |
+| [Echoes of Elysium](https://store.steampowered.com/app/2644050/) | 2644050 | 61% | 512 | Overall | Jan 27, 2026 | May 2027 | [Steam](https://store.steampowered.com/app/2644050/) |
+
+- **Early Access target provenance and limitations:**
+  - **Phasmophobia:** Steam EA Q&A: planned second half of 2026, provisional.
+  - **Jump Space:** Steam store: Leaving Early Access in 2027; ignore stale ~5 month Q&A.
+  - **Bellwright:** Developer Q&A: full release within three years of Apr 2024 EA launch (derived end-year, not fixed date).
+  - **Deep Rock Galactic: Rogue Core:** Developer Q&A: 18–24 months in Early Access, May 2028 is derived upper endpoint.
+  - **Everwind:** EA Q&A specifies at least one year only, minimum duration not an actionable target.
+  - **Lightyear Frontier:** Steam Leaving Early Access banner scheduled Nov 4, 2026; still EA as of Oct 18.
+  - **Sunkenland:** Old 1-year EA expectation expired in 2024; no credible current forecast.
+  - **Craftopia:** Old minimum of 1 year, no current exit forecast; Steam score omits off-topic review activity.
+  - **Saleblazers:** Old minimum of 2 years, no current exit forecast; Steam displays overall review scope.
+  - **Volcanoids:** Original 2-year plan was extended; no actionable current exit forecast.
+  - **Echoes of Elysium:** Developer Q&A: approx 12–16 months in EA; May 2027 is derived upper endpoint.
+- **Review caveats:** Craftopia's Steam English rating explicitly excludes off-topic review activity. Saleblazers and Echoes of Elysium showed an all-time Overall review summary (not a separately labeled English score). No other active review snapshot figures were refreshed. All eleven sources are game-specific official Steam store pages; recorded October 18, 2026, with dynamic counts subject to change.
+- **User-declined games (new exclusions; do not recommend or add without explicit request):** Lethal Company (tried; poor fit), Project Zomboid (played extensively), Nightingale (owner concerned development is abandoned), The Forever Winter (owner concerned about reception), Soulmask (owner concerned about reception), and Rogue Point (owner concerned about reception). The latter two had been mentioned as full-release alternatives, not part of the eleven Early Access additions. These six join the **eight earlier declined suggestions**, for **fourteen declined discoveries**, in addition to the **eight owner-removed candidates**. The comments about Nightingale's development and other games' reception are the owner's preferences, **not independently verified determinations** of their current status.
+- **Continuity:** Do not automatically re-suggest any of the six declined titles, or reintroduce previously removed titles. Maintain the all-Markdown-files ZIP rule and GitHub read-only policy. Next `Update games` should re-check 1.0 transfers (especially Lightyear Frontier after November 4), ratings, and projected dates, rather than automatically classifying based only on a future target.
+
 ## What has not been checked yet
 
-- **Steam reviews:** The 85 continuing active review-bearing games were last checked October 17, 2026; 12 newly added Possible Games were checked October 18, 2026. `docs/REVIEW_SNAPSHOT.md` contains the exact counts for all 97 currently active review-bearing games, plus seven intentionally removed games in an archive table. No all-game refresh occurred on October 18; Coming Soon reviews are not tracked.
-- **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries at the time (17 after the subsequent owner-approved removals). All 5 Coming Soon entries had their release timing rechecked on October 17, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
-- **Three-player compatibility** was reviewed preliminarily on October 17, 2026, and eight unsuitable or unwanted candidates were removed; 12 owner-approved three-player co-op games were added October 18. A complete mode-by-mode audit of the currently active **101 candidates** has **not** been performed. Being listed does not guarantee every mode supports three-player co-op.
+- **Steam reviews:** The original 85 still-active games were last checked October 17, 2026; 12 Possible Games and 11 Early Access additions were checked October 18, 2026. `docs/REVIEW_SNAPSHOT.md` holds exact counts for all **108** active review-bearing games plus seven owner-removed historical entries. No all-game refresh occurred on October 18; Coming Soon reviews are not tracked.
+- **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries at the time (17 after the subsequent owner-approved removals). All 5 then-listed Coming Soon entries had their release timing rechecked on October 17, 2026. Eleven newly added Early Access titles were checked on October 18, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
+- **Three-player compatibility** was reviewed preliminarily on October 17, 2026, and eight unsuitable or unwanted candidates were removed; 12 owner-approved fully released three-player co-op games and 11 Early Access games were added October 18. A complete mode-by-mode audit of the currently active **112 candidates** has **not** been performed. Being listed does not guarantee every mode supports three-player co-op.
 - **Descriptions:** 47 descriptions were revised October 17, 2026 using the approved concise gameplay-focused wording. Remaining descriptions retain their original wording; comprehensive external fact-checking and three-player validation are still pending. Non-Steam availability has not been independently reviewed. Possible Games and Early Access are sorted by review metrics, not recommendation rank.
 - All four source worksheets have now been imported; `Played` was added after the three candidate sections. Historical counts above describe the earlier three-section baseline.
 

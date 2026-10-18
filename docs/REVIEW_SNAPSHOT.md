@@ -2,12 +2,12 @@
 
 This file records the **exact all-time Steam review totals** underlying the `Percent` and `Count` columns of [the active Possible Games and Early Access lists](../games/README.md). It is a **dated collection of recorded observations**, not a live feed or a fresh October 18 refresh of every game.
 
-- **Active coverage:** 80 Possible Games + 17 Early Access = **97 games**, all represented exactly once below and ordered as in the catalog.
-- **Measurement dates:** Existing games were checked **October 17, 2026**; the 12 newly approved games were checked **October 18, 2026**. The `Checked` column records this per title. Do not treat the older figures as newly verified.
+- **Active coverage:** 80 Possible Games + 28 Early Access = **108 games**, all represented exactly once below and ordered as in the catalog.
+- **Measurement dates:** Existing games were checked **October 17, 2026**; the 12 newly approved games were checked **October 18, 2026**. Another 11 Early Access additions were verified October 18, 2026. The `Checked` column records this per title. Do not treat the older figures as newly verified.
 - **Scope:** Steam's *all-time English-language* user reviews where available, otherwise all-time *Overall*. These are **review counts**, not players or purchases. `Indexed Steam` means a recently indexed Steam store listing was used because direct access was age-gated; its timing may differ from the stated audit day.
 - **Precision and sorting:** This table stores exact counts; the reader-facing game list formats counts below 1,000 as integers and larger counts in `k` with one decimal place, using half-up rounding. On a review refresh, sort each affected catalog section by descending Percent then **descending exact count**, and update this file at the same time. Do not sort from rounded `k` values.
-- **Source URL:** Each row's Steam app page is `https://store.steampowered.com/app/<Steam App ID>/`. The October 18 additions were transcribed from the exact counts and scopes already documented in `PROJECT_CONTEXT.md`, not independently rechecked for this documentation audit.
-- **Historical removals:** Seven October 17 entries were subsequently removed from the candidate lists by owner request. Their figures are retained in a separate historical table below, **not** included in the 97 active games. The eighth removed title, Outward 2, was in Coming Soon and has no review-snapshot entry.
+- **Source URL:** Each row's Steam app page is `https://store.steampowered.com/app/<Steam App ID>/`. The October 18 Possible Games additions were transcribed from the previously documented exact counts. The 11 October 18 Early Access additions were verified from their Steam store pages during this add-games task; review figures may change.
+- **Historical removals:** Seven October 17 entries were subsequently removed from the candidate lists by owner request. Their figures are retained in a separate historical table below, **not** included in the 108 active games. The eighth removed title, Outward 2, was in Coming Soon and has no review-snapshot entry.
 
 ## Active candidates — latest recorded review figures
 
@@ -95,21 +95,32 @@ This file records the **exact all-time Steam review totals** underlying the `Per
 | Possible Games | Call of Duty | 1938090 | 57% | 233,724 | English | Indexed Steam | 2026-10-17 |
 | Early Access | R.E.P.O. | 3241660 | 96% | 140,161 | English | Steam | 2026-10-17 |
 | Early Access | Far Far West | 3124540 | 96% | 20,800 | English | Steam | 2026-10-17 |
+| Early Access | Phasmophobia | 739630 | 94% | 360,324 | English | Steam | 2026-10-18 |
 | Early Access | Subnautica 2 | 1962700 | 93% | 72,677 | English | Steam | 2026-10-17 |
 | Early Access | Windblown | 1911610 | 92% | 4,940 | English | Steam | 2026-10-17 |
 | Early Access | Swords 'n Magic and Stuff | 810040 | 92% | 890 | Overall | Steam | 2026-10-17 |
 | Early Access | Vein | 1857950 | 89% | 8,603 | English | Steam | 2026-10-17 |
 | Early Access | Windrose | 3041230 | 88% | 28,856 | English | Steam | 2026-10-17 |
 | Early Access | Romestead | 1805320 | 88% | 1,386 | English | Steam | 2026-10-17 |
+| Early Access | Jump Space | 1757300 | 87% | 8,422 | English | Steam | 2026-10-18 |
 | Early Access | Cure - A Hospital Simulator | 2786550 | 87% | 866 | Overall | Steam | 2026-10-17 |
 | Early Access | Grounded 2 | 2661300 | 86% | 13,313 | English | Steam | 2026-10-17 |
 | Early Access | Fast Food Simulator | 2916430 | 85% | 4,481 | English | Steam | 2026-10-17 |
+| Early Access | Volcanoids | 951440 | 84% | 4,936 | English | Steam | 2026-10-18 |
 | Early Access | Aloft | 1660080 | 84% | 1,973 | English | Steam | 2026-10-17 |
+| Early Access | Sunkenland | 2080690 | 83% | 9,117 | English | Steam | 2026-10-18 |
+| Early Access | Lightyear Frontier | 1677110 | 82% | 2,532 | English | Steam | 2026-10-18 |
 | Early Access | Witchspire | 2679100 | 82% | 1,941 | Overall | Steam | 2026-10-17 |
 | Early Access | Six Days in Fallujah | 1548850 | 81% | 9,584 | English | Steam | 2026-10-17 |
+| Early Access | Everwind | 2253100 | 81% | 1,738 | English | Steam | 2026-10-18 |
+| Early Access | Bellwright | 1812450 | 79% | 10,507 | English | Steam | 2026-10-18 |
+| Early Access | Craftopia | 1307550 | 79% | 7,541 | English | Steam | 2026-10-18 |
 | Early Access | ASKA | 1898300 | 79% | 5,673 | English | Steam | 2026-10-17 |
+| Early Access | Saleblazers | 1419850 | 78% | 1,990 | Overall | Steam | 2026-10-18 |
 | Early Access | Afterblast | 1338490 | 76% | 226 | Overall | Steam | 2026-10-17 |
 | Early Access | Gray Zone Warfare | 2479810 | 74% | 47,072 | English | Steam | 2026-10-17 |
+| Early Access | Deep Rock Galactic: Rogue Core | 2605790 | 69% | 7,623 | English | Steam | 2026-10-18 |
+| Early Access | Echoes of Elysium | 2644050 | 61% | 512 | Overall | Steam | 2026-10-18 |
 
 ## Historical snapshot — games intentionally removed
 
