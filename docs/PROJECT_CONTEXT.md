@@ -216,6 +216,52 @@ The owner explicitly requested removal of these **eight** games after a review o
 - No other row text, links, review figures, Early Access dates, release dates, or sorting criteria changed. `docs/REVIEW_SNAPSHOT.md` is a **dated historical record** of the October 17 review audit, not an active candidate table: it deliberately retains the removed games' old snapshot rows for auditability.
 - Root README and `docs/UPDATE_GAMES.md` now explicitly protect owner exclusions; the assistant must never write to GitHub and must deliver ZIP + commit message for manual application.
 
+## Full-release game discovery additions — October 18, 2026
+
+- **Owner-approved:** Add **12** fully released native-online-co-op games to `Possible Games` only. New total: **80 Possible Games**, **17 Early Access**, **4 Coming Soon**, and **23 Played** (**101 candidates** and **124 combined rows**). No new entries in `Early Access`, `Coming Soon` or `Played`.
+- **Review method:** Steam store **all-time English-language** percentage and exact count as read on October 18, 2026, except *Moving Out 2*, which shows only the **overall all-time** score on its Steam listing. Counts are rendered as exact integers below 1,000, otherwise one decimal `k` with half-up rounding. Insert new rows according to Percent descending and underlying exact Count descending. **Do not refresh existing games' review figures** as part of this addition; their existing October 17 snapshot is preserved. Existing candidate row order within ties was not altered.
+- **Verification:** Each new entry was checked against its Steam storefront for full-release status, Windows PC support, Steam Online Co-op listing and a mode supporting three players. These are current store facts, not assurances of progression design or ease of play. Sources and precise measured values follow.
+
+| New game | Steam app ID | Quick Description | Percent | Exact reviews | Scope |
+| :--- | ---: | :--- | ---: | ---: | :--- |
+| [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper/) | 1621690 | Underground mining survival crafting | 94% | 23,869 | English |
+| [Necesse](https://store.steampowered.com/app/1169040/Necesse/) | 1169040 | Settlement-building survival RPG | 94% | 12,610 | English |
+| [ICARUS](https://store.steampowered.com/app/1149460/ICARUS/) | 1149460 | Planetary wilderness survival crafting | 77% | 31,651 | English |
+| [The Lord of the Rings: Return to Moria](https://store.steampowered.com/app/2933130/The_Lord_of_the_Rings_Return_to_Moria/) | 2933130 | Dwarven underground survival crafting | 79% | 6,804 | English |
+| [Starbound](https://store.steampowered.com/app/211820/Starbound/) | 211820 | Space exploration sandbox crafting | 88% | 51,873 | English |
+| [Monster Hunter Rise](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/) | 1446780 | Cooperative monster-hunting action RPG | 87% | 35,058 | English |
+| [Warhammer 40,000: Darktide](https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/) | 1361210 | Sci-fi horde combat shooter | 76% | 75,210 | English |
+| [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) | 550 | Cooperative zombie horde shooter | 97% | 234,220 | English |
+| [GTFO](https://store.steampowered.com/app/493520/GTFO/) | 493520 | Hardcore tactical horror shooter | 88% | 25,766 | English |
+| [Content Warning](https://store.steampowered.com/app/2881650/Content_Warning/) | 2881650 | Comedy horror filming adventure | 93% | 35,466 | English |
+| [Unrailed!](https://store.steampowered.com/app/1016920/Unrailed/) | 1016920 | Cooperative railway-building survival | 94% | 4,677 | English |
+| [Moving Out 2](https://store.steampowered.com/app/1641700/Moving_Out_2/) | 1641700 | Chaotic furniture-moving co-op | 72% | 468 | Overall |
+
+- **Caveats:** *Monster Hunter Rise* has solo Village quests even though co-op Hub hunts support a trio. *GTFO* and *Warhammer 40,000: Darktide* are four-person-squad-oriented, but three friends can team together (with an AI/other player for the extra slot as applicable). These games were explicitly approved despite their differing modes/structure. No multiplayer mods are required for three people to play together.
+- **Eight discovery suggestions declined by the owner (do not automatically re-suggest):**
+
+| Game | Owner's reason |
+| :--- | :--- |
+| 7 Days to Die | Already played extensively |
+| No Man's Sky | Already played extensively |
+| Factorio | Already played extensively |
+| Remnant II | Tried the first game; not a good group fit |
+| For The King II | Similar turn-based group style did not fit (Civilization) |
+| Baldur's Gate 3 | Too large a commitment |
+| PEAK | Already tried; not a good group fit |
+| PICO PARK 2 | Doesn't look like a good fit |
+
+- These eight *declined discovery suggestions* are distinct from the eight titles previously **removed** from the candidate lists. Do not automatically reintroduce or re-suggest either set; user may explicitly override this later. Keep historical Played data unchanged.
+- **Files/impact:** Updated `games/README.md` for the twelve rows and header provenance; updated root `README.md` to carry declined discovery suggestions forward; updated this project context with sources, raw review counts and preferences. Do not alter game names, reviews or dates of any existing rows, other table schemas, or `docs/UPDATE_GAMES.md`.
+
+## ZIP packaging rule — October 18, 2026
+
+- **Owner instruction (supersedes all earlier changed-files-only guidance):** Every future repository update ZIP must include **the complete set of Markdown documentation files** from the current repo, including unchanged files. Always include root `README.md` and `AGENTS.md`, `games/README.md`, every existing `docs/*.md` (including `docs/UPDATE_GAMES.md`, `docs/PROJECT_CONTEXT.md`, and `docs/REVIEW_SNAPSHOT.md`), plus any newly created documentation in the future. Include changed non-documentation files if needed. Respect the exact repository-relative paths.
+- This archive **repackages the already-approved 12 fully released co-op game additions** from the immediately preceding update, rather than conducting another Steam review refresh. Starting from the latest GitHub state (68 Possible / 17 Early Access / 4 Coming Soon / 23 Played), it adds the same 12 titles to Possible Games to reach 80. All existing review figures, game links, descriptions, dates, and ordering rules are otherwise preserved. Avoid double-applying the additions if they have already been committed.
+- The latest GitHub `docs/UPDATE_GAMES.md` was re-read and retained with its existing intentional-exclusion guidance, then only its packaging section was revised for the new rule. The latest GitHub `AGENTS.md` is included and its documentation handoff text is updated to reflect the new packaging rule.
+- `docs/REVIEW_SNAPSHOT.md` was **not present** on GitHub when this replacement package was prepared, despite references in the instructions. Restored it from the previous October 17, 2026 Update games ZIP, keeping its **historical October 17 source data** unchanged. It is not a new October 18 review refresh; new additions' exact October 18 counts remain documented above in this context.
+- ZIPs should be **merged into the existing repository root**, overwriting listed files as appropriate but not deleting entire folders. A documentation file being unchanged is not grounds to omit it. GitHub remains read-only to the assistant; only the owner commits.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 17, 2026; review data for Coming Soon is not tracked. Exact snapshot in `docs/REVIEW_SNAPSHOT.md`.

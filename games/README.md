@@ -10,11 +10,12 @@ A shortlist of games for **three friends** playing together on **Windows 11 gami
 
 Games currently considered ready for us to play.
 
-*Percent* and *Count* show Steam’s all-time user review figures (English-language where available; updated October 17, 2026).
+*Percent* and *Count* show Steam’s all-time user review figures (English-language where available). Existing games last refreshed October 17, 2026; new additions checked October 18, 2026.
 
 | Game | Quick Description | Percent | Count |
 | :--- | :--- | ---: | ---: |
 | [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/) | Casual farming RPG | 98% | 395.9k |
+| [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) | Cooperative zombie horde shooter | 97% | 234.2k |
 | [Abiotic Factor](https://store.steampowered.com/app/427410/Abiotic_Factor/) | Sci-fi facility survival crafting | 96% | 29.1k |
 | [Big Walk](https://store.steampowered.com/app/1478500/Big_Walk/) | Co-op exploration and communication puzzles | 96% | 28.0k |
 | [PlateUp!](https://store.steampowered.com/app/1599600/PlateUp/) | Restaurant simulator | 96% | 12.6k |
@@ -28,8 +29,12 @@ Games currently considered ready for us to play.
 | [Valheim](https://store.steampowered.com/app/892970/Valheim/) | Viking survival crafter | 94% | 266.4k |
 | [Dying Light](https://store.steampowered.com/app/239140/Dying_Light/) | Parkour-driven zombie survival action | 94% | 99.7k |
 | [Supermarket Together](https://store.steampowered.com/app/2709570/Supermarket_Together/) | Grocery store simulator | 94% | 35.6k |
+| [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper/) | Underground mining survival crafting | 94% | 23.9k |
+| [Necesse](https://store.steampowered.com/app/1169040/Necesse/) | Settlement-building survival RPG | 94% | 12.6k |
+| [Unrailed!](https://store.steampowered.com/app/1016920/Unrailed/) | Cooperative railway-building survival | 94% | 4.7k |
 | [Raft](https://store.steampowered.com/app/648800/Raft/) | Ocean survival and raft building | 93% | 130.5k |
 | [The Outlast Trials](https://store.steampowered.com/app/1304930/The_Outlast_Trials/) | Survival horror trials | 93% | 44.3k |
+| [Content Warning](https://store.steampowered.com/app/2881650/Content_Warning/) | Comedy horror filming adventure | 93% | 35.5k |
 | [Dinkum](https://store.steampowered.com/app/1062520/Dinkum/) | Farming survival crafter | 93% | 15.8k |
 | [Overcooked! 2](https://store.steampowered.com/app/728880/Overcooked_2/) | Chaotic cooking simulator | 93% | 14.7k |
 | [TerraTech](https://store.steampowered.com/app/285920/TerraTech/) | Modular vehicle-building sandbox | 92% | 13.3k |
@@ -41,11 +46,14 @@ Games currently considered ready for us to play.
 | [Medieval Dynasty](https://store.steampowered.com/app/1129580/Medieval_Dynasty/) | Medieval village building and survival | 89% | 19.5k |
 | [Pulsar: Lost Colony](https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/) | Co-op spaceship crew simulation | 89% | 3.7k |
 | [Sons Of The Forest](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/) | Horror survival crafter | 88% | 118.9k |
+| [Starbound](https://store.steampowered.com/app/211820/Starbound/) | Space exploration sandbox crafting | 88% | 51.9k |
+| [GTFO](https://store.steampowered.com/app/493520/GTFO/) | Hardcore tactical horror shooter | 88% | 25.8k |
 | [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/) | Off-road vehicle simulator | 88% | 19.3k |
 | [Guild Wars 2](https://store.steampowered.com/app/1284210/Guild_Wars_2/) | Fantasy MMORPG | 88% | 19.2k |
 | [For The King](https://store.steampowered.com/app/527230/For_The_King/) | Turn-based strategy RPG | 88% | 11.7k |
 | [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) | Roguelite spaceship crew missions | 88% | 5.1k |
 | [Enshrouded](https://store.steampowered.com/app/1203620/Enshrouded/) | Fantasy survival crafter | 87% | 50.4k |
+| [Monster Hunter Rise](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/) | Cooperative monster-hunting action RPG | 87% | 35.1k |
 | [Ale & Tale Tavern](https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/) | Fantasy tavern management and adventure | 87% | 4.2k |
 | [House Flipper 2](https://store.steampowered.com/app/1190970/House_Flipper_2/) | House refurbishment simulator | 86% | 9.7k |
 | [Green Hell](https://store.steampowered.com/app/815370/Green_Hell/) | Jungle survival crafter | 85% | 27.5k |
@@ -65,18 +73,22 @@ Games currently considered ready for us to play.
 | [Once Human](https://store.steampowered.com/app/2139460/Once_Human/) | Post-apocalyptic survival | 80% | 93.4k |
 | [Conan Exiles](https://store.steampowered.com/app/440900/Conan_Exiles_Enhanced/) | Open world fantasy survival | 79% | 39.9k |
 | [The Division 2](https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/) | Looter shooter RPG | 79% | 18.1k |
+| [The Lord of the Rings: Return to Moria](https://store.steampowered.com/app/2933130/The_Lord_of_the_Rings_Return_to_Moria/) | Dwarven underground survival crafting | 79% | 6.8k |
 | [Construction Simulator](https://store.steampowered.com/app/1273400/Construction_Simulator/) | Construction simulator | 79% | 3.7k |
 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | Space sandbox survival | 78% | 17.9k |
 | [Forever Skies](https://store.steampowered.com/app/1641960/Forever_Skies/) | Airship survival crafter | 78% | 5.0k |
 | [Firefighting Simulator: Ignite](https://store.steampowered.com/app/1669480/Firefighting_Simulator_Ignite/) | Firefighter simulator | 78% | 1.0k |
 | [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/) | Tactical SWAT shooter | 77% | 152.1k |
+| [ICARUS](https://store.steampowered.com/app/1149460/ICARUS/) | Planetary wilderness survival crafting | 77% | 31.7k |
 | [Ranch Simulator](https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/) | Ranching simulator | 77% | 12.1k |
+| [Warhammer 40,000: Darktide](https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/) | Sci-fi horde combat shooter | 76% | 75.2k |
 | [Generation Zero](https://store.steampowered.com/app/704270/Generation_Zero/) | Open world survival shooter | 76% | 18.4k |
 | [The Ascent](https://store.steampowered.com/app/979690/The_Ascent/) | Cyberpunk RPG shooter | 76% | 12.5k |
 | [Dead Island 2](https://store.steampowered.com/app/934700/Dead_Island_2/) | Zombie survival shooter | 76% | 11.0k |
 | [Fallout 76](https://store.steampowered.com/app/1151340/Fallout_76/) | Post-apocalyptic survival | 75% | 47.0k |
 | [HumanitZ](https://store.steampowered.com/app/1766060/HumanitZ/) | Isometric survival shooter | 73% | 4.5k |
 | [Outbound](https://store.steampowered.com/app/2681030/Outbound/) | Cozy campervan crafting and exploration | 73% | 1.9k |
+| [Moving Out 2](https://store.steampowered.com/app/1641700/Moving_Out_2/) | Chaotic furniture-moving co-op | 72% | 468 |
 | [Ghost Recon Breakpoint](https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/) | Open world military shooter | 71% | 20.7k |
 | [RoadCraft](https://store.steampowered.com/app/2104890/RoadCraft/) | Disaster recovery with heavy machinery | 71% | 6.9k |
 | [Gears of War: E-Day](https://store.steampowered.com/app/3010850/Gears_of_War_EDay/) | Cover-based alien invasion shooter | 71% | 6.6k |
