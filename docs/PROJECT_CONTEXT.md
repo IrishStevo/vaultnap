@@ -197,11 +197,30 @@ This file holds **working context for future chats**, separate from the reader-f
 - **Unchanged by this command:** All 23 Played rows and their dates, Quick Descriptions, game-name and Steam-link fields, and table structures. Section totals remain **73 Possible Games, 19 Early Access, 5 Coming Soon, 23 Played**.
 - **Read-only/manual commit:** ZIP delivery with changed and new repository-relative files plus suggested commit message. Never commit or write to GitHub.
 
+## Eight games removed from candidate lists — October 17, 2026
+
+The owner explicitly requested removal of these **eight** games after a review of suitability for three people playing together on Windows 11 PCs. Remove them from `games/README.md` and **do not reintroduce them automatically** during `Update games`, future Steam-review refreshes, release-status transfers, or recommendations. Restoring a title requires the owner's explicit instruction. No games were removed from `Played`, which remains a historical record.
+
+| Previous section | Removed game | Suitability concern discussed |
+| :--- | :--- | :--- |
+| Possible Games | Outward | Native campaign co-op limited to two (PC mods are optional and unsupported) |
+| Possible Games | Star Trek: Bridge Crew | No longer readily purchasable on Steam; multiplayer access may have service limitations |
+| Possible Games | Street Fighter 6 | One-on-one fighting, not simultaneous three-player co-op |
+| Possible Games | Kiln | Team-based competitive PvP, rather than desired three-player co-op experience |
+| Possible Games | Where Winds Meet | Some group activities exist, but much of the core story experience is solo |
+| Early Access | Sandustry | Single-player listing; no verified native multiplayer |
+| Early Access | Breathedge 2 | Single-player; cooperative multiplayer not planned |
+| Coming Soon | Outward 2 | Announced native co-op supports two players |
+
+- **Current candidate counts after removal:** 68 Possible Games, 17 Early Access, 4 Coming Soon = **89 candidates** (down from 97). `Played` remains **23**; total game rows across all four sections are **112**.
+- No other row text, links, review figures, Early Access dates, release dates, or sorting criteria changed. `docs/REVIEW_SNAPSHOT.md` is a **dated historical record** of the October 17 review audit, not an active candidate table: it deliberately retains the removed games' old snapshot rows for auditability.
+- Root README and `docs/UPDATE_GAMES.md` now explicitly protect owner exclusions; the assistant must never write to GitHub and must deliver ZIP + commit message for manual application.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 17, 2026; review data for Coming Soon is not tracked. Exact snapshot in `docs/REVIEW_SNAPSHOT.md`.
-- **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries. All 5 Coming Soon entries had their release timing rechecked on October 17, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
-- **Three-player compatibility**, play modes, dedicated servers, and other gameplay suitability details have **not** been audited. Being listed does not guarantee a game supports three players in co-op.
+- **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries at the time (17 after the subsequent owner-approved removals). All 5 Coming Soon entries had their release timing rechecked on October 17, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
+- **Three-player compatibility** was reviewed preliminarily on October 17, 2026, and eight unsuitable or unwanted candidates were removed; a complete mode-by-mode compatibility audit of the remaining 89 candidates has **not** been performed. Being listed does not guarantee a game supports three players in co-op.
 - **Descriptions:** 47 descriptions were revised October 17, 2026 using the approved concise gameplay-focused wording. Remaining descriptions retain their original wording; comprehensive external fact-checking and three-player validation are still pending. Non-Steam availability has not been independently reviewed. Possible Games and Early Access are sorted by review metrics, not recommendation rank.
 - All four source worksheets have now been imported; `Played` was added after the three candidate sections. Historical counts above describe the earlier three-section baseline.
 

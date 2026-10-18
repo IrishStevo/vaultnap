@@ -47,7 +47,6 @@ Games currently considered ready for us to play.
 | [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) | Roguelite spaceship crew missions | 88% | 5.1k |
 | [Enshrouded](https://store.steampowered.com/app/1203620/Enshrouded/) | Fantasy survival crafter | 87% | 50.4k |
 | [Ale & Tale Tavern](https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/) | Fantasy tavern management and adventure | 87% | 4.2k |
-| [Where Winds Meet](https://store.steampowered.com/app/3564740/Where_Winds_Meet/) | Martial arts open-world RPG | 86% | 64.8k |
 | [House Flipper 2](https://store.steampowered.com/app/1190970/House_Flipper_2/) | House refurbishment simulator | 86% | 9.7k |
 | [Green Hell](https://store.steampowered.com/app/815370/Green_Hell/) | Jungle survival crafter | 85% | 27.5k |
 | [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/) | Open world zombie survival | 85% | 22.3k |
@@ -55,7 +54,6 @@ Games currently considered ready for us to play.
 | [Misery](https://store.steampowered.com/app/2119830/MISERY/) | Radiation-zone scavenging and survival | 84% | 8.1k |
 | [World War Z](https://store.steampowered.com/app/699130/World_War_Z/) | Zombie action shooter | 84% | 7.5k |
 | [Hell Let Loose](https://store.steampowered.com/app/686810/Hell_Let_Loose/) | Multiplayer World War II PvP | 83% | 63.0k |
-| [Street Fighter 6](https://store.steampowered.com/app/1364780/Street_Fighter_6/) | Competitive one-on-one fighting | 83% | 21.0k |
 | [Eden Crafters](https://store.steampowered.com/app/2570210/Eden_Crafters/) | Planet terraforming and factory automation | 83% | 1.3k |
 | [RuneScape: Dragonwilds](https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/) | Open world survival crafter | 82% | 25.9k |
 | [Aliens: Fireteam Elite](https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/) | Alien horror shooter | 82% | 14.4k |
@@ -77,11 +75,8 @@ Games currently considered ready for us to play.
 | [The Ascent](https://store.steampowered.com/app/979690/The_Ascent/) | Cyberpunk RPG shooter | 76% | 12.5k |
 | [Dead Island 2](https://store.steampowered.com/app/934700/Dead_Island_2/) | Zombie survival shooter | 76% | 11.0k |
 | [Fallout 76](https://store.steampowered.com/app/1151340/Fallout_76/) | Post-apocalyptic survival | 75% | 47.0k |
-| [Star Trek: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/) | Star Trek starship simulator | 74% | 2.7k |
-| [Outward](https://store.steampowered.com/app/794260/Outward_Definitive_Edition/) | Open world survival RPG | 73% | 15.7k |
 | [HumanitZ](https://store.steampowered.com/app/1766060/HumanitZ/) | Isometric survival shooter | 73% | 4.5k |
 | [Outbound](https://store.steampowered.com/app/2681030/Outbound/) | Cozy campervan crafting and exploration | 73% | 1.9k |
-| [Kiln](https://store.steampowered.com/app/1165990/Kiln/) | Pottery-based team arena brawler | 73% | 158 |
 | [Ghost Recon Breakpoint](https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/) | Open world military shooter | 71% | 20.7k |
 | [RoadCraft](https://store.steampowered.com/app/2104890/RoadCraft/) | Disaster recovery with heavy machinery | 71% | 6.9k |
 | [Gears of War: E-Day](https://store.steampowered.com/app/3010850/Gears_of_War_EDay/) | Cover-based alien invasion shooter | 71% | 6.6k |
@@ -98,7 +93,6 @@ Games in Early Access that may need more development before we play.
 
 | Game | Quick Description | Percent | Count | Start | Est. End |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| [Sandustry](https://store.steampowered.com/app/2764460/Sandustry/) | Destructible-world factory automation | 97% | 3.4k | Aug 13, 2026 | Aug 2027 |
 | [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) | Physics-based co-op horror scavenging | 96% | 140.2k | Feb 26, 2025 | n/a |
 | [Far Far West](https://store.steampowered.com/app/3124540/Far_Far_West/) | Supernatural Western bounty-hunting shooter | 96% | 20.8k | Apr 28, 2026 | Apr 2027 |
 | [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/) | Underwater survival crafter | 93% | 72.7k | May 14, 2026 | 2029 |
@@ -109,7 +103,6 @@ Games in Early Access that may need more development before we play.
 | [Romestead](https://store.steampowered.com/app/1805320/Romestead/) | Roman settlement survival against zombies | 88% | 1.4k | May 25, 2026 | 2028 |
 | [Cure - A Hospital Simulator](https://store.steampowered.com/app/2786550/CURE__A_Hospital_Simulator/) | Apocalyptic emergency-room management | 87% | 866 | Nov 20, 2025 | Late 2027 |
 | [Grounded 2](https://store.steampowered.com/app/2661300/Grounded_2/) | Miniature backyard survival crafting | 86% | 13.3k | Jul 29, 2025 | n/a |
-| [Breathedge 2](https://store.steampowered.com/app/2412960/Breathedge_2/) | Comedic space survival adventure | 86% | 1.7k | Aug 31, 2026 | Spring 2028 |
 | [Fast Food Simulator](https://store.steampowered.com/app/2916430/Fast_Food_Simulator/) | Co-op fast-food restaurant management | 85% | 4.5k | Dec 10, 2024 | n/a |
 | [Aloft](https://store.steampowered.com/app/1660080/Aloft/) | Floating-island restoration and survival | 84% | 2.0k | Jan 15, 2025 | n/a |
 | [Witchspire](https://store.steampowered.com/app/2679100/Witchspire/) | Witchcraft and creature-collecting survival | 82% | 1.9k | Jun 10, 2026 | n/a |
@@ -128,7 +121,6 @@ Games that have not yet been released, including into Early Access.
 | Game | Quick Description | When |
 | :--- | :--- | :--- |
 | [Call of Duty: Modern Warfare 4](https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/) | Modern military campaign and multiplayer FPS | Oct 23, 2026 |
-| [Outward 2](https://store.steampowered.com/app/2849490/Outward_2/) | Challenging fantasy exploration and survival | EA Feb 8, 2027 |
 | [Guild Wars 3](https://store.steampowered.com/app/4743930/Guild_Wars_3/) | Action-combat fantasy MMORPG | n/a |
 | [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | Three-player machine-hunting co-op | n/a |
 | [Light No Fire](https://store.steampowered.com/app/2719590/Light_No_Fire/) | Planet-scale fantasy survival exploration | n/a |

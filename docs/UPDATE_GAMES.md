@@ -21,6 +21,7 @@ When the owner says **“Update games”**, complete the following workflow usin
 - Show a concise exact date or developer-stated period in `When`, and use the **latest endpoint** of a published range. When first public release is explicitly planned as Early Access, prepend `EA ` (e.g. `EA Feb 8, 2027`, `EA Late 2027`); otherwise do not. If no current release period is confirmed, use `n/a`, **not** `EA n/a`. Prefer official worldwide dates to regional Steam unlock dates; document discrepancies.
 - Sort **soonest first** by underlying calendar date/period, ignoring the `EA ` prefix; `n/a` rows must come **last, alphabetical by game title**. Compare coarse periods by the *end* of that period without pretending to know an exact day in the displayed table. Preserve the prior relative order for exact ties.
 - If a Coming Soon game has actually entered Early Access or fully released, verify its status and move it to the appropriate table **only with source-supported review fields**; never make up missing ratings. Document any exception where review fields cannot be established.
+- **Respect intentional exclusions:** Do not reintroduce games the owner deliberately removed, even if Steam review numbers, release status, or multiplayer features change. Read the current exclusion decisions in `docs/PROJECT_CONTEXT.md` first; restoration requires an explicit new owner request. Historical `docs/REVIEW_SNAPSHOT.md` rows are not candidate-list membership.
 
 ## 4. Preserve historical Played data
 
