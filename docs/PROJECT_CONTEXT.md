@@ -178,12 +178,20 @@ This file holds **working context for future chats**, separate from the reader-f
 - `When` values retain `MMM YYYY` precision, are supplied by the owner, and should not be mistaken for independently verified Steam first-played dates. No changes to Possible Games, Early Access, or Coming Soon.
 - **Delivery:** This update includes only the changed `games/README.md`, root `README.md` instruction, and this project-context file. The owner commits manually; GitHub access stays strictly read-only for assistants.
 
+## Quick Description review — October 17, 2026
+
+- Applied the user's approved wording changes to **47 Quick Descriptions**: **27 Possible Games**, **15 Early Access**, and **5 Coming Soon**. The other **50** candidate descriptions were left as originally recorded. The canonical updated wording is in `games/README.md`; do not automatically rephrase again in later chats.
+- Style rule: favor concise, informative, neutral descriptions of the principal gameplay activity and distinguishing mechanics/setting, approximately **3–6 words** where practical. Avoid overly broad terms that make different games indistinguishable. Don't imply a game supports three-player co-op unless this has been separately confirmed.
+- The change touches only description cells in the three candidate sections. **No game names, Steam links, Steam review percentages or counts, dates, order, section assignments, or Played history changed.** The review scores and release dates remain the previously recorded snapshots, not newly refreshed data.
+- Multiplayer compatibility is **not** comprehensively audited. Separate follow-up research should verify party size and co-op mode before recommending a title for all three players.
+- Repository collaboration is unchanged: read current root instructions at each new chat; deliver future proposed changes as a ZIP of changed files and a commit message; owner makes all GitHub commits manually.
+
 ## What has not been checked yet
 
 - **Steam reviews:** Possible Games and Early Access review figures refreshed October 16, 2026; review data for Coming Soon is not tracked.
 - **Early Access dates/status and Coming Soon dates:** All 21 original Early Access entries were audited October 16, 2026; Smalland and Solarpunk were moved to Possible Games, leaving 19 Early Access entries. All 5 Coming Soon entries had their release timing audited on October 16, 2026. Dates in Possible Games have not been audited; developer windows and exact dates can change and need rechecking.
 - **Three-player compatibility**, play modes, dedicated servers, and other gameplay suitability details have **not** been audited. Being listed does not guarantee a game supports three players in co-op.
-- **Descriptions and non-Steam availability** have not been independently reviewed. Possible Games and Early Access are sorted by review metrics, which is not a recommendation ranking.
+- **Descriptions:** 47 descriptions were revised October 17, 2026 using the approved concise gameplay-focused wording. Remaining descriptions retain their original wording; comprehensive external fact-checking and three-player validation are still pending. Non-Steam availability has not been independently reviewed. Possible Games and Early Access are sorted by review metrics, not recommendation rank.
 - All four source worksheets have now been imported; `Played` was added after the three candidate sections. Historical counts above describe the earlier three-section baseline.
 
 ## Future workflow
