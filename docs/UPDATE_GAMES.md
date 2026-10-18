@@ -2,6 +2,8 @@
 
 When the owner says **“Update games”**, complete the following workflow using the latest `README.md`, `games/README.md`, and `docs/PROJECT_CONTEXT.md` from `IrishStevo/vaultnap`. Do not ask the user to repeat the steps. GitHub is **read-only**; return changed files as a ZIP, together with a suggested commit message.
 
+**Scope boundary:** `Update games` maintains **existing** game entries and may move already listed games between candidate sections when their verified release status changes. It does **not** search for or introduce previously unlisted games. That is the separate [`Find new games`](FIND_NEW_GAMES.md) command, which requests owner approval before additions.
+
 ## 1. Steam reviews: Possible Games and Early Access
 
 1. Extract Steam app IDs from each existing game URL. Look up **all-time** Steam user-review positive percentage and underlying **exact review count**, preferring the **English-language** all-time review summary when separately exposed; otherwise use the all-time overall summary. Do **not** substitute Recent Reviews (past 30 days), a lifetime purchase or player count, or a stale secondary website number. Use the Steam listing and record when a figure is from a recently indexed Steam page because an age gate prevents direct reading. If a current number cannot be reliably verified, keep the existing value and flag the gap; do not fabricate one.

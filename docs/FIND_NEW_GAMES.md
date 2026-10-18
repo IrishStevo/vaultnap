@@ -1,0 +1,29 @@
+# Find new games — repeatable discovery command
+
+When the owner says **“Find new games”**, discover games **not already in the catalog**, covering all three candidate sections: **Possible Games**, **Early Access**, and **Coming Soon**. This is separate from [Update games](UPDATE_GAMES.md), which refreshes **existing** entries, not new discovery. Always re-read the latest [root instructions](../README.md#chatgpt-instructions), [games list](../games/README.md), and [project context](PROJECT_CONTEXT.md) first.
+
+## 1. Discover and filter
+
+1. Use current Steam store pages and developer/publisher announcements; other Windows PC storefronts can be considered when Steam lacks the game. Find candidates across already released (non-Early-Access), currently Steam Early Access, and not-yet-publicly-released games, including titles **planning to start in Early Access**.
+2. Check **all four** catalog sections by game name and, where available, Steam app ID: avoid proposing existing entries or games already in **Played** as discoveries. Read the [owner-removal and declined-suggestion logs](PROJECT_CONTEXT.md) to avoid intentionally excluded titles. Reconsider only if the owner explicitly asks.
+3. Prioritize games supporting **three friends on separate Windows 11 PCs together**, ideally native online co-op; no unsupported multiplayer mods. Prefer the group's interest in survival, crafting, exploration and cooperative action, and be realistic about roughly **three hours each week**. Flag co-op restrictions (two-player limits, solo campaign, host-based progression, four-person squads, competitive-only modes, lack of confirmed party size). Do not claim unverified three-player compatibility is established.
+4. Check actual release state as of the research date. **Already fully released** → Possible Games. **Currently in Early Access** → Early Access. **Not publicly released** → Coming Soon. Private alpha/beta, Steam Next Fest demo, closed/open playtest and preorder early access do not count as first public release. Do not infer release from a stale date.
+
+## 2. Present for approval before adding
+
+- Provide a useful shortlist grouped by candidate section, with **game name/Steam link, concise gameplay-focused Quick Description, verified co-op information, and important caveats**. For Coming Soon supply the first announced public release date/period and confirmed `EA` prefix if applicable; use `n/a` if timing is unknown. Cite official sources.
+- **Do not change repository files merely because “Find new games” was invoked.** Wait for the owner to approve, reject, or refine the shortlist. Record explicit declines/exclusions after the owner decides.
+
+## 3. Add only approved games
+
+- Fetch latest repo state again, deduplicate, verify each approved game's **latest release state** and link. Follow the root README's established schemas, date formats and Quick Description rules. Only add to the approved sections.
+- For newly added **Possible Games / Early Access**, obtain the all-time Steam review positive percentage and **exact** review total (English when separately available, otherwise overall), review-source scope, and real check date. Display counts below 1,000 exactly and counts ≥1,000 in `k` with one decimal and conventional half-up rounding. Put each new record into [REVIEW_SNAPSHOT.md](REVIEW_SNAPSHOT.md), then sort section by percentage descending, exact count descending. Keep the existing games' review data and original snapshot check dates unless an independent `Update games` refresh was requested.
+- For new **Early Access** games verify actual EA `Start` and developer-backed 1.0 timing for `Est. End` (upper endpoint of ranges; `n/a` when absent, expired or merely a minimum duration). Source and uncertainty belong in [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md).
+- For new **Coming Soon** games, `When` is the *first public release* date/period; prefix `EA ` only when the developer or Steam explicitly confirms the initial launch will be Early Access. Do not display `EA n/a`. Sort known dates **soonest first**, using a period's latest endpoint for comparison; sort `n/a` entries **alphabetically last**. Preserve existing rows and their dates unless separately asked to refresh them. Place uncertainties about player counts and future modes in project context, not the reader-facing table.
+- Preserve Played, explicit exclusions, all non-target sections, and otherwise unrelated review figures, descriptions, and dates. Never invent player capacities or exact release dates.
+
+## 4. Delivery and handoff
+
+- Document accepted and declined games, rationale, official source links, check dates, and limitations in [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md). Keep a current-state summary and avoid treating outdated historical notes as standing rules.
+- Deliver a downloadable **ZIP of every repository Markdown documentation file**, **changed or unchanged**, maintaining repository-relative paths, including README.md, AGENTS.md, games/README.md, all docs/*.md (including this file), and changed non-documentation files if applicable. Provide a suggested commit message. Tell the owner to merge/extract into the existing repo rather than replacing entire directories.
+- **GitHub is strictly read-only** for the assistant: the owner reviews and commits proposed changes manually.

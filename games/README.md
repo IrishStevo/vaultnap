@@ -138,14 +138,31 @@ Games in Early Access that may need more development before we play.
 
 Games that have not yet been released, including into Early Access.
 
-*When* is the latest announced first public release date or period, using the upper end of any range. `EA` identifies a planned Early Access launch. Dates are sorted by soonest release first; `n/a` entries are last and alphabetized by game title. Dates reviewed October 17, 2026.
+*When* is the latest announced first public release date or period, using the upper end of any range. `EA` identifies a planned Early Access launch. Dates are sorted by soonest release first; `n/a` entries are last and alphabetized by game title. Existing entries last reviewed October 17, 2026; 17 new titles checked October 18, 2026.
 
 | Game | Quick Description | When |
 | :--- | :--- | :--- |
 | [Call of Duty: Modern Warfare 4](https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/) | Modern military campaign and multiplayer FPS | Oct 23, 2026 |
+| [Hela: of Mice & Magic](https://store.steampowered.com/app/3161310/) | Magical mouse exploration and puzzles | Dec 1, 2026 |
+| [Witchbrook](https://store.steampowered.com/app/1846700/) | Magical academy life simulation | 2026 |
+| [JOIN US](https://store.steampowered.com/app/3401960/) | Apocalyptic cult-building survival sandbox | Mar 2027 |
+| [GONE DIGGING](https://store.steampowered.com/app/4247230/) | Horror mining and resource scavenging | EA Q2 2027 |
+| [Canyons](https://store.steampowered.com/app/2708860/) | Crawler-based post-apocalyptic co-op shooter | Nov 2027 |
+| [BLACKFROST: The Long Dark 2](https://store.steampowered.com/app/1586260/) | Post-apocalyptic wilderness survival sandbox | EA 2027 |
+| [Seaforge: Shores of Atlantis](https://store.steampowered.com/app/4712440/) | Underwater exploration and survival crafting | EA 2027 |
+| [State of Decay 3](https://store.steampowered.com/app/1340720/) | Shared-world zombie settlement survival | 2027 |
+| [ARK 2](https://store.steampowered.com/app/2050420/) | Dinosaur survival and open-world adventure | n/a |
+| [Blight: Survival](https://store.steampowered.com/app/1774880/) | Medieval cooperative action horror | n/a |
+| [Chrono Odyssey](https://store.steampowered.com/app/2873440/) | Time-bending open-world action MMORPG | n/a |
+| [Den of Wolves](https://store.steampowered.com/app/1818140/) | Cyberpunk cooperative heist shooter | n/a |
 | [Guild Wars 3](https://store.steampowered.com/app/4743930/Guild_Wars_3/) | Action-combat fantasy MMORPG | n/a |
 | [Horizon Hunters Gathering](https://store.steampowered.com/app/4244910/Horizon_Hunters_Gathering/) | Three-player machine-hunting co-op | n/a |
+| [Kingmakers](https://store.steampowered.com/app/2109770/) | Modern weapons in medieval warfare | n/a |
 | [Light No Fire](https://store.steampowered.com/app/2719590/Light_No_Fire/) | Planet-scale fantasy survival exploration | n/a |
+| [Streets of Rogue 2](https://store.steampowered.com/app/2165810/) | Open-world sandbox action roguelite | n/a |
+| [The CUBE](https://store.steampowered.com/app/3230430/) | Sci-fi rotating-world MMO shooter | n/a |
+| [TROLLHEIM: GNOMES](https://store.steampowered.com/app/4139890/) | Nordic miniature wilderness survival crafting | n/a |
+| [Under a Rock](https://store.steampowered.com/app/1667040/) | Prehistoric island survival crafting | n/a |
 
 ---
 
