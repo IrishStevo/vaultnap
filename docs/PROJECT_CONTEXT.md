@@ -4,6 +4,8 @@ This file holds **working context for future chats**, separate from the reader-f
 
 ## Current state — October 18, 2026
 
+**Handoff update (October 26, 2026):** The root README now starts with a copyable prompt for new ChatGPT conversations and a **Pending updates** queue of individually approved changes not yet committed. A future `Update games` run applies already-approved queued additions/transfers in addition to maintaining the existing catalog; `Find new games` still only discovers and seeks approval. Read the root README queue first, and do not treat queued items as already applied.
+
 **This section is the current handoff.** The dated entries below it are retained as a chronological history; older statements about counts, row order, unfinished work, or changed-files-only ZIPs are **historical and superseded** by the root [ChatGPT Instructions](../README.md#chatgpt-instructions), [Update games runbook](UPDATE_GAMES.md), the [Find new games runbook](FIND_NEW_GAMES.md), and the current [game catalog](../games/README.md).
 
 | Catalog section | Active rows | Sorting |
@@ -18,7 +20,7 @@ This file holds **working context for future chats**, separate from the reader-f
 - **Release timelines:** The original Early Access and Coming Soon roster last had a general status/date review **October 17, 2026**. Eleven newly added Early Access games and **17 new Coming Soon games** had their individual status and release timing researched October 18, 2026. The four pre-existing Coming Soon rows were preserved without a new date refresh.
 - **Exclusions:** Eight explicitly removed candidate games and fourteen declined discovery suggestions are listed in their historical sections below. Don't reintroduce or re-suggest them without explicit owner approval.
 - **Compatibility:** Native three-person co-op is an important group requirement; a comprehensive mode-by-mode check of every active candidate remains outstanding. New games require an appropriate three-person cooperative mode without unsupported mods. Recent Early Access and Coming Soon additions have co-op listings, but modes, progression, and polish can vary. Three tentative Coming Soon games (BLACKFROST, Chrono Odyssey, The CUBE) have **unresolved group-size or progression details**; do not claim a confirmed three-person implementation.
-- **Commands:** [`Update games`](UPDATE_GAMES.md) maintains existing games; [`Find new games`](FIND_NEW_GAMES.md) researches new-to-list games across all three candidate sections and presents them for owner approval before adding.
+- **Commands:** [`Update games`](UPDATE_GAMES.md) refreshes current games **and applies explicitly approved items in the root README Pending updates queue**; [`Find new games`](FIND_NEW_GAMES.md) researches new candidates for owner approval. Co-Optimus is an approved discovery source for Possible Games.
 - **Packaging:** Every proposed repository update is a **ZIP including all Markdown documentation**, even unchanged files, plus any changed non-documentation files and a suggested commit message. The owner merges it into the existing repository and commits manually. GitHub access by the assistant is read-only.
 
 ## Historical decisions and audits (chronological)
@@ -366,6 +368,15 @@ The owner explicitly requested removal of these **eight** games after a review o
 - **Three-player compatibility** was reviewed preliminarily on October 17, 2026, and eight unsuitable or unwanted candidates were removed; 12 owner-approved fully released three-player co-op games and 11 Early Access games were added October 18. A complete mode-by-mode audit of the currently active **129 candidates** has **not** been performed. Being listed does not guarantee every mode supports three-player co-op.
 - **Descriptions:** 47 descriptions were revised October 17, 2026 using the approved concise gameplay-focused wording. Remaining descriptions retain their original wording; comprehensive external fact-checking and three-player validation are still pending. Non-Steam availability has not been independently reviewed. Possible Games and Early Access are sorted by review metrics, not recommendation rank.
 - All four source worksheets have now been imported; `Played` was added after the three candidate sections. Historical counts above describe the earlier three-section baseline.
+
+## New-chat handoff and queued approvals — October 26, 2026
+
+- Added a concise copyable **Continue this project in a new ChatGPT chat** prompt directly below the title in root `README.md`. The prompt points to the latest root instructions, `AGENTS.md`, `games/README.md` and all `docs/*.md`, and reinforces strict read-only GitHub access, complete-documentation ZIPs, and owner-only commits. Do not paste large historical instructions into the prompt; the latest repo is the authority.
+- **Approved but not applied:** Add `over the hill` (Steam app `2929250`) and `Trash Day` (`3314580`) to Possible Games on the next `Update games`, using fresh Steam all-time reviews, exact counts and correct ranking. Proposed Quick Descriptions: `Cooperative off-road exploration adventure` and `Physics-based raccoon scavenging adventure`. The owner explicitly approved both individual games without requesting ZIPs at the time.
+- **Approved but not applied:** Move `Palworld` (`1623730`) from Possible Games to Played, with **Who = Steve** and **When = Oct 2026**, preserving its Steam link, sorting Played newest first, moving its active review record to the historical-only snapshot, and refreshing review data for other active games as requested by `Update games`.
+- **Approved discovery source:** Use [Co-Optimus](https://www.co-optimus.com/) when finding candidate Possible Games and checking multiplayer capabilities, while cross-validating with Steam/developer information. This is a source addition, not a candidate game.
+- **Workflow exception:** User requested that approved individual-game proposals not generate ZIPs. Queue them until the next `Update games` and apply there, even though normal `Update games` does **not** discover new games. `Find new games` still proposes rather than adding automatically. Clear the queue once committed; never add queued titles twice.
+- **Scope of this October 26 package:** Documentation only; all 80 Possible, 28 Early Access, 21 Coming Soon, 23 Played entries and 108 active review snapshot rows remain unchanged pending a future full refresh. All seven Markdown documentation files are included (including unchanged ones) for manual extraction into the existing repo. GitHub was not modified by the assistant.
 
 ## Future workflow
 

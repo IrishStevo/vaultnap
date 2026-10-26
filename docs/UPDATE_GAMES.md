@@ -2,7 +2,12 @@
 
 When the owner says **“Update games”**, complete the following workflow using the latest `README.md`, `games/README.md`, and `docs/PROJECT_CONTEXT.md` from `IrishStevo/vaultnap`. Do not ask the user to repeat the steps. GitHub is **read-only**; return changed files as a ZIP, together with a suggested commit message.
 
-**Scope boundary:** `Update games` maintains **existing** game entries and may move already listed games between candidate sections when their verified release status changes. It does **not** search for or introduce previously unlisted games. That is the separate [`Find new games`](FIND_NEW_GAMES.md) command, which requests owner approval before additions.
+**Scope boundary:** `Update games` maintains **existing** game entries and may move already listed games between candidate sections when their verified release status changes. It does **not** search for new candidates. **Exception:** apply individual games that the owner already explicitly approved and queued in the root README’s Pending updates section, including approved Played transfers, during the next Update games run. Verify the latest data and deduplicate, then clear completed queue entries. Unapproved game discovery belongs to the separate [`Find new games`](FIND_NEW_GAMES.md) command, which requests owner approval before additions.
+
+## 0. Apply owner-approved pending items
+
+- Check the root README Pending updates section first. Approved pending game additions are not new discovery; verify current release state, review totals and links, add to the appropriate section, and reconcile the active and historical snapshot records. Process pending Played transfers with the owner-specified Who/When. Do not assume a queued change has not already been committed: deduplicate first.
+- Record the outcome in PROJECT_CONTEXT.md and clear completed queued items in the root README. Individual-game discussions queue approved changes without a ZIP; a requested repository update still delivers the complete docs ZIP.
 
 ## 1. Steam reviews: Possible Games and Early Access
 
