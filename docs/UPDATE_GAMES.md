@@ -8,6 +8,7 @@ When the owner says **“Update games”**, complete the following workflow usin
 
 - Check the root README Pending updates section first. Approved pending game additions are not new discovery; verify current release state, review totals and links, add to the appropriate section, and reconcile the active and historical snapshot records. Process pending Played transfers with the owner-specified Who/When. Do not assume a queued change has not already been committed: deduplicate first.
 - Record the outcome in PROJECT_CONTEXT.md and clear completed queued items in the root README. Individual-game discussions queue approved changes without a ZIP; a requested repository update still delivers the complete docs ZIP.
+- The owner may explicitly request only application of queued changes or a documentation update. In that case, apply the approved items and reconcile the affected snapshot without claiming all existing games were freshly reviewed. Reserve the **complete** review/timeline maintenance workflow for an actual **Update games** command.
 
 ## 1. Steam reviews: Possible Games and Early Access
 

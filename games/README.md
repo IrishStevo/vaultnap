@@ -10,7 +10,7 @@ A shortlist of games for **three friends** playing together on **Windows 11 gami
 
 Games currently considered ready for us to play.
 
-*Percent* and *Count* show Steam’s all-time user review figures (English-language where available). Existing games last refreshed October 17, 2026; new additions checked October 18, 2026.
+*Percent* and *Count* show Steam’s all-time user review figures (English-language where available). Existing games last refreshed October 17, 2026; previous additions checked October 18, 2026; new entries checked October 26, 2026. Unchanged games retain their earlier review figures.
 
 | Game | Quick Description | Percent | Count |
 | :--- | :--- | ---: | ---: |
@@ -19,7 +19,7 @@ Games currently considered ready for us to play.
 | [Abiotic Factor](https://store.steampowered.com/app/427410/Abiotic_Factor/) | Sci-fi facility survival crafting | 96% | 29.1k |
 | [Big Walk](https://store.steampowered.com/app/1478500/Big_Walk/) | Co-op exploration and communication puzzles | 96% | 28.0k |
 | [PlateUp!](https://store.steampowered.com/app/1599600/PlateUp/) | Restaurant simulator | 96% | 12.6k |
-| [Palworld](https://store.steampowered.com/app/1623730/Palworld/) | Creature-collecting survival crafting | 95% | 184.4k |
+| [Trash Day](https://store.steampowered.com/app/3314580/Trash_Day/) | Physics-based raccoon scavenging adventure | 96% | 712 |
 | [The Forest](https://store.steampowered.com/app/242760/The_Forest/) | Horror survival crafter | 95% | 178.2k |
 | [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) | Roguelike action shooter | 95% | 164.7k |
 | [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/) | Gothic wilderness survival crafting | 95% | 82.3k |
@@ -32,6 +32,7 @@ Games currently considered ready for us to play.
 | [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper/) | Underground mining survival crafting | 94% | 23.9k |
 | [Necesse](https://store.steampowered.com/app/1169040/Necesse/) | Settlement-building survival RPG | 94% | 12.6k |
 | [Unrailed!](https://store.steampowered.com/app/1016920/Unrailed/) | Cooperative railway-building survival | 94% | 4.7k |
+| [over the hill](https://store.steampowered.com/app/2929250/over_the_hill/) | Cooperative off-road exploration adventure | 94% | 2.7k |
 | [Raft](https://store.steampowered.com/app/648800/Raft/) | Ocean survival and raft building | 93% | 130.5k |
 | [The Outlast Trials](https://store.steampowered.com/app/1304930/The_Outlast_Trials/) | Survival horror trials | 93% | 44.3k |
 | [Content Warning](https://store.steampowered.com/app/2881650/Content_Warning/) | Comedy horror filming adventure | 93% | 35.5k |
@@ -172,6 +173,7 @@ Games we have played together.
 
 | Game | Who | When |
 | :--- | :--- | :--- |
+| [Palworld](https://store.steampowered.com/app/1623730/Palworld/) | Steve | Oct 2026 |
 | [Escape Simulator](https://store.steampowered.com/app/1435790/Escape_Simulator/) | Tony | Sep 2026 |
 | [Halo: Campaign Evolved](https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/) | Tony | Aug 2026 |
 | [Payday 2](https://store.steampowered.com/app/218620/PAYDAY_2/) | Errol | Jun 2026 |

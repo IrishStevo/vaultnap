@@ -2,12 +2,12 @@
 
 This file records the **exact all-time Steam review totals** underlying the `Percent` and `Count` columns of [the active Possible Games and Early Access lists](../games/README.md). It is a **dated collection of recorded observations**, not a live feed or a fresh October 18 refresh of every game.
 
-- **Active coverage:** 80 Possible Games + 28 Early Access = **108 games**, all represented exactly once below and ordered as in the catalog.
-- **Measurement dates:** Existing games were checked **October 17, 2026**; the 12 newly approved games were checked **October 18, 2026**. Another 11 Early Access additions were verified October 18, 2026. The `Checked` column records this per title. Do not treat the older figures as newly verified.
+- **Active coverage:** 81 Possible Games + 28 Early Access = **109 games**, all represented exactly once below and ordered as in the catalog.
+- **Measurement dates:** Most continuing games were checked **October 17, 2026**; 12 Possible Games and 11 Early Access additions were checked **October 18, 2026**; **over the hill** and **Trash Day** were checked **October 26, 2026**. The `Checked` column records this per title. Do not treat older figures as newly verified.
 - **Scope:** Steam's *all-time English-language* user reviews where available, otherwise all-time *Overall*. These are **review counts**, not players or purchases. `Indexed Steam` means a recently indexed Steam store listing was used because direct access was age-gated; its timing may differ from the stated audit day.
 - **Precision and sorting:** This table stores exact counts; the reader-facing game list formats counts below 1,000 as integers and larger counts in `k` with one decimal place, using half-up rounding. On a review refresh, sort each affected catalog section by descending Percent then **descending exact count**, and update this file at the same time. Do not sort from rounded `k` values.
 - **Source URL:** Each row's Steam app page is `https://store.steampowered.com/app/<Steam App ID>/`. The October 18 Possible Games additions were transcribed from the previously documented exact counts. The 11 October 18 Early Access additions were verified from their Steam store pages during this add-games task; review figures may change.
-- **Historical removals:** Seven October 17 entries were subsequently removed from the candidate lists by owner request. Their figures are retained in a separate historical table below, **not** included in the 108 active games. The eighth removed title, Outward 2, was in Coming Soon and has no review-snapshot entry.
+- **Historical records:** Seven October 17 entries were removed from the candidate lists by owner request and remain in a historical-only exclusions table. **Palworld** was separately transferred into Played in October 2026; its old Possible Games review figures are retained in a distinct transfer history table, **not** treated as an exclusion. Neither group counts toward the 109 active records. The eighth intentionally removed game, Outward 2, was in Coming Soon and has no review-snapshot entry.
 
 ## Active candidates — latest recorded review figures
 
@@ -18,7 +18,7 @@ This file records the **exact all-time Steam review totals** underlying the `Per
 | Possible Games | Abiotic Factor | 427410 | 96% | 29,138 | English | Steam | 2026-10-17 |
 | Possible Games | Big Walk | 1478500 | 96% | 27,951 | English | Steam | 2026-10-17 |
 | Possible Games | PlateUp! | 1599600 | 96% | 12,577 | English | Steam | 2026-10-17 |
-| Possible Games | Palworld | 1623730 | 95% | 184,376 | English | Steam | 2026-10-17 |
+| Possible Games | Trash Day | 3314580 | 96% | 712 | Overall | Steam | 2026-10-26 |
 | Possible Games | The Forest | 242760 | 95% | 178,228 | English | Steam | 2026-10-17 |
 | Possible Games | Risk of Rain 2 | 632360 | 95% | 164,705 | English | Steam | 2026-10-17 |
 | Possible Games | Don't Starve Together | 322330 | 95% | 82,334 | English | Steam | 2026-10-17 |
@@ -31,6 +31,7 @@ This file records the **exact all-time Steam review totals** underlying the `Per
 | Possible Games | Core Keeper | 1621690 | 94% | 23,869 | English | Steam | 2026-10-18 |
 | Possible Games | Necesse | 1169040 | 94% | 12,610 | English | Steam | 2026-10-18 |
 | Possible Games | Unrailed! | 1016920 | 94% | 4,677 | English | Steam | 2026-10-18 |
+| Possible Games | over the hill | 2929250 | 94% | 2,665 | English | Steam | 2026-10-26 |
 | Possible Games | Raft | 648800 | 93% | 130,509 | English | Steam | 2026-10-17 |
 | Possible Games | The Outlast Trials | 1304930 | 93% | 44,277 | English | Steam | 2026-10-17 |
 | Possible Games | Content Warning | 2881650 | 93% | 35,466 | English | Steam | 2026-10-18 |
@@ -135,3 +136,11 @@ The following titles were in the **October 17, 2026** audit but were later inten
 | Possible Games | Kiln | 1165990 | 73% | 158 | Overall | Steam | 2026-10-17 |
 | Early Access | Sandustry | 2764460 | 97% | 3,350 | English | Steam | 2026-10-17 |
 | Early Access | Breathedge 2 | 2412960 | 86% | 1,736 | Overall | Steam | 2026-10-17 |
+
+## Historical snapshot — moved to Played (not excluded)
+
+**Palworld** was moved from Possible Games to Played at the owner's request, with `Who = Steve` and `When = Oct 2026`. The former review record is retained for historical continuity only. This is **not** an exclusion or rejection; do not automatically return it to Possible Games.
+
+| Former section | Game | Steam App ID | Percent | Exact reviews | Scope | Access | Checked |
+| :--- | :--- | ---: | ---: | ---: | :--- | :--- | :--- |
+| Possible Games | Palworld | 1623730 | 95% | 184,376 | English | Steam | 2026-10-17 |

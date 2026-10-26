@@ -8,17 +8,9 @@ Copy the following into a new chat:
 Continue my VaultNap co-op games project using https://github.com/IrishStevo/vaultnap. First read the latest README.md (especially ChatGPT Instructions), AGENTS.md, games/README.md, and all docs/*.md, and treat them as standing instructions. Use the current GitHub repository as the source of truth, and pick up any explicitly approved changes listed under Pending updates in the README. GitHub and my services are strictly read-only to you: never commit, push, open PRs, or change them. For repository changes, provide a ZIP containing every Markdown documentation file (even unchanged files) and a suggested commit message; I will apply and commit the changes myself. Follow the documented Update games and Find new games commands and preserve the existing sorting, review and exclusion rules.
 ```
 
-## Pending updates (approved; not yet applied)
+## Pending updates
 
-These changes were agreed in chat and are **not yet in the game catalog**. Apply them together the **next time I say “Update games”**, unless the latest repository state already includes them:
-
-- Add **[over the hill](https://store.steampowered.com/app/2929250/)** (Steam app `2929250`) to Possible Games; proposed description: `Cooperative off-road exploration adventure`.
-- Add **[Trash Day](https://store.steampowered.com/app/3314580/)** (Steam app `3314580`) to Possible Games; proposed description: `Physics-based raccoon scavenging adventure`.
-- Move **[Palworld](https://store.steampowered.com/app/1623730/)** from Possible Games to Played with `Who = Steve` and `When = Oct 2026` (sort Played newest-first). Remove its active review snapshot entry while preserving its historical review record.
-- Add **[Co-Optimus](https://www.co-optimus.com/)** as an additional discovery and co-op compatibility research source for Possible Games, cross-checking Steam and official developer sources.
-- When discussing or approving **individual games**, queue accepted changes without generating a ZIP. An **Update games** run also applies this explicitly approved pending queue, *in addition to* refreshing existing catalog entries; this is a narrow exception to its no-new-discovery rule. **Find new games** continues to discover and present new candidates for approval rather than automatically adding them.
-
-Remove items from this pending list when they have actually been applied and documented in the repository. Do not apply them twice.
+None at present. Add individually approved future games or Played transfers here, then apply and clear them during the next **Update games** or explicitly requested repository update. See the [October 26 completion record](docs/PROJECT_CONTEXT.md#approved-individual-game-updates-applied--october-26-2026).
 
 A place to keep track of games that three friends might play together on **Windows 11 gaming PCs**. We mostly use Steam, but other PC storefronts are fine when a game isn't available there.
 
@@ -43,7 +35,7 @@ The owner makes all repository commits manually. Proposed updates are discussed 
 
 | Command | Purpose |
 | :--- | :--- |
-| **Update games** | Refresh Steam review percentages and counts, Early Access timelines/status, and Coming Soon release timing **for games already in the catalog**, and apply any **previously approved pending additions or Played moves** listed above. Re-sort and reconcile the review snapshot; do not discover unapproved new games. See [Update games](docs/UPDATE_GAMES.md). |
+| **Update games** | Refresh Steam review percentages and counts, Early Access timelines/status, and Coming Soon release timing **for games already in the catalog**, and apply any **previously approved pending additions or Played moves** listed in Pending updates (if any). Re-sort and reconcile the review snapshot; do not discover unapproved new games. See [Update games](docs/UPDATE_GAMES.md). |
 | **Find new games** | Research new Windows PC co-op games across **Possible Games**, **Early Access**, and **Coming Soon**; check three-player suitability and exclusions; present candidates for approval before adding them. See [Find new games](docs/FIND_NEW_GAMES.md). |
 
 ## ChatGPT Instructions
