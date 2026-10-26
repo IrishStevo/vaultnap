@@ -27,6 +27,8 @@ A place to keep track of games that three friends might play together on **Windo
 
 The shortlist is a set of **candidates**, not a verified list of games supporting three-player co-op. Platform support, player counts, release status, and store review numbers may need checking before we choose a game.
 
+**Efficient updates:** Follow the [repository update efficiency rules](AGENTS.md#efficient-repository-updates): fetch once, edit only what changed, validate appropriately, and copy unchanged Markdown directly into the required ZIP.
+
 ## How updates work
 
 The owner makes all repository commits manually. Proposed updates are discussed in chat and delivered as a **ZIP archive containing the complete repository documentation set** (including unchanged documentation files), plus a suggested **commit message**. Extract the ZIP at the repository root, inspect the changes, and commit them yourself. The assistant may **read** the repository but must never write to GitHub.
