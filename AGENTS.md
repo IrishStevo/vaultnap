@@ -13,7 +13,7 @@ Keep the game list free of development and process notes; use `docs/PROJECT_CONT
 1. **Use the read-only GitHub connector by default; fetch once and in parallel:** Read the current GitHub documentation with the connector at the start, record blob SHAs, and reuse those fetched results. Do not repeatedly fetch unchanged files or attempt direct container downloads as a prerequisite.
 2. **Reuse verified local copies:** If a working-directory file's Git blob SHA matches the latest remote GitHub SHA, copy it directly instead of reconstructing it from output chunks. If they disagree, refetch the changed file before editing.
 3. **Make focused edits:** Change only the rows, instructions, or supporting notes that the task requires. Keep all other text and unchanged documents byte-for-byte intact.
-4. **Validate proportionally:** For a documentation edit check links and text; for `Update games`, check review snapshot/catalog consistency, exact-count sorting, dates, section membership, and Played preservation. Do not run unrelated deep audits.
+4. **Validate proportionally:** For a documentation edit check links and text; for `Update games`, check both the review and 30-day popularity snapshot/catalog consistency, exact-count sorting, dates, section membership, and Played preservation. Do not run unrelated deep audits.
 5. **Package directly:** Always include every Markdown file in a repository-relative ZIP, but copy unchanged files directly from the verified working tree. Verify file manifest and archive integrity. Never write to GitHub or connected services.
 
 ## Default GitHub connector workflow and offline ZIP packaging

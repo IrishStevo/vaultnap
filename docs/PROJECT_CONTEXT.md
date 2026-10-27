@@ -2,6 +2,14 @@
 
 This file holds **working context for future chats**, separate from the reader-facing [game list](../games/README.md). The root [README](../README.md#chatgpt-instructions) contains the authoritative collaboration rules; re-read it before repo work.
 
+## Steam popularity stars — October 26, 2026
+
+**Owner-approved schema change:** Add `Popularity` immediately after `Count` in Possible Games and Early Access. It is **independent of reviews**, based on Steam Charts’ rolling **last-30-day average concurrent Steam players**, rather than Steam review totals or current/peak counts. Four bands: `☆☆☆` for average under 100; `★☆☆` 100 to under 1,000; `★★☆` 1,000 to under 10,000; `★★★` 10,000+. `n/a` means genuinely inaccessible/unverified or excessively stale, **not** zero-star activity. Steam-only figures exclude other storefronts and platforms; shared hub counts cannot stand in for a title’s activity.
+
+**First measurement:** October 26, 2026 Pacific time. There are 126 candidate rows (91 Possible + 35 Early Access); the exact observed decimal averages, per-app source links, missing-data reasons, and resulting star ratings are recorded in the new [`POPULARITY_SNAPSHOT.md`](POPULARITY_SNAPSHOT.md). A few Steam Charts listings were unavailable or had stale source timestamps. Those are `n/a`, without inferred review-based fallback. Steam Charts pages can have inconsistent crawl recency; consult sources again on next update.
+
+**Continuity:** `Update games` now refreshes 30-day popularity alongside existing reviews, classifications, and dates, while the existing descending Percent then exact review Count order is unchanged. `Find new games` and approved additions record a popularity value or `n/a` separately from review data. `docs/REVIEW_SNAPSHOT.md` remains unchanged in this popularity-only update; Coming Soon and Played have no popularity column. All original exclusion and technical-detour rules remain in force.
+
 ## Current state — October 26, 2026
 
 **Handoff update (October 26, 2026):** The root README provides a copyable new-chat prompt and a **Pending updates** queue. Previously queued items (over the hill, Trash Day, Palworld Played transfer, and Co-Optimus) have already been applied and remain included. The queue is empty. Future individually approved games may be queued without an individual ZIP; the next requested repository update or `Update games` run can apply them without conducting new discovery.
