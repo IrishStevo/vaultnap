@@ -39,9 +39,14 @@ Games currently considered ready for us to play.
 | [Dinkum](https://store.steampowered.com/app/1062520/Dinkum/) | Farming survival crafter | 93% | 15.9k |
 | [Overcooked! 2](https://store.steampowered.com/app/728880/Overcooked_2/) | Chaotic cooking simulator | 93% | 14.7k |
 | [TerraTech](https://store.steampowered.com/app/285920/TerraTech/) | Modular vehicle-building sandbox | 92% | 13.3k |
+| [PowerWash Simulator 2](https://store.steampowered.com/app/2968420/) | Cooperative pressure-washing job simulation | 92% | 7.5k |
+| [Escape Simulator 2](https://store.steampowered.com/app/2879840/) | Cooperative escape-room puzzle solving | 92% | 2.0k |
 | [Astroneer](https://store.steampowered.com/app/361420/ASTRONEER/) | Planetary exploration and base building | 91% | 54.1k |
 | [V Rising](https://store.steampowered.com/app/1604030/V_Rising/) | Vampire survival crafter | 90% | 55.2k |
+| [Scrap Mechanic](https://store.steampowered.com/app/387990/) | Physics-based machinery and survival crafting | 90% | 48.2k |
 | [Warhammer: Vermintide 2](https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/) | Fantasy hack and slash | 90% | 44.1k |
+| [Luma Island](https://store.steampowered.com/app/2408820/) | Cozy island farming and exploration | 90% | 3.8k |
+| [Rotwood](https://store.steampowered.com/app/2015270/) | Combo-focused roguelite monster brawling | 90% | 2.2k |
 | [Space Engineers](https://store.steampowered.com/app/244850/Space_Engineers/) | Space survival crafter | 89% | 67.8k |
 | [RV There Yet?](https://store.steampowered.com/app/3949040/RV_There_Yet/) | Chaotic co-op RV driving | 89% | 32.2k |
 | [Pulsar: Lost Colony](https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/) | Co-op spaceship crew simulation | 89% | 3.7k |
@@ -53,6 +58,7 @@ Games currently considered ready for us to play.
 | [Guild Wars 2](https://store.steampowered.com/app/1284210/Guild_Wars_2/) | Fantasy MMORPG | 88% | 19.3k |
 | [For The King](https://store.steampowered.com/app/527230/For_The_King/) | Turn-based strategy RPG | 88% | 11.7k |
 | [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) | Roguelite spaceship crew missions | 88% | 5.1k |
+| [Unrailed 2: Back on Track](https://store.steampowered.com/app/2211170/) | Procedural railway-building survival runs | 88% | 1.8k |
 | [Enshrouded](https://store.steampowered.com/app/1203620/Enshrouded/) | Fantasy survival crafter | 87% | 51.7k |
 | [Monster Hunter Rise](https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/) | Cooperative monster-hunting action RPG | 87% | 35.1k |
 | [Ale & Tale Tavern](https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/) | Fantasy tavern management and adventure | 87% | 4.2k |
@@ -60,6 +66,7 @@ Games currently considered ready for us to play.
 | [Green Hell](https://store.steampowered.com/app/815370/Green_Hell/) | Jungle survival crafter | 85% | 27.6k |
 | [State of Decay 2](https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/) | Open world zombie survival | 85% | 22.4k |
 | [Ravenswatch](https://store.steampowered.com/app/2071280/Ravenswatch/) | Fantasy co-op action roguelike | 85% | 8.5k |
+| [Wildmender](https://store.steampowered.com/app/1599330/) | Desert gardening and survival restoration | 85% | 1.8k |
 | [Misery](https://store.steampowered.com/app/2119830/MISERY/) | Radiation-zone scavenging and survival | 84% | 8.2k |
 | [World War Z](https://store.steampowered.com/app/699130/World_War_Z/) | Zombie action shooter | 84% | 7.6k |
 | [Hell Let Loose](https://store.steampowered.com/app/686810/Hell_Let_Loose/) | Multiplayer World War II PvP | 83% | 63.0k |
@@ -87,12 +94,14 @@ Games currently considered ready for us to play.
 | [Generation Zero](https://store.steampowered.com/app/704270/Generation_Zero/) | Open world survival shooter | 76% | 18.4k |
 | [The Ascent](https://store.steampowered.com/app/979690/The_Ascent/) | Cyberpunk RPG shooter | 76% | 12.6k |
 | [Dead Island 2](https://store.steampowered.com/app/934700/Dead_Island_2/) | Zombie survival shooter | 76% | 11.0k |
+| [Aragami 2](https://store.steampowered.com/app/1158370/) | Three-player stealth assassination missions | 76% | 1.6k |
 | [Fallout 76](https://store.steampowered.com/app/1151340/Fallout_76/) | Post-apocalyptic survival | 75% | 47.1k |
 | [HumanitZ](https://store.steampowered.com/app/1766060/HumanitZ/) | Isometric survival shooter | 73% | 4.5k |
 | [Outbound](https://store.steampowered.com/app/2681030/Outbound/) | Cozy campervan crafting and exploration | 73% | 1.9k |
 | [Moving Out 2](https://store.steampowered.com/app/1641700/Moving_Out_2/) | Chaotic furniture-moving co-op | 72% | 471 |
 | [Ghost Recon Breakpoint](https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/) | Open world military shooter | 71% | 20.7k |
 | [RoadCraft](https://store.steampowered.com/app/2104890/RoadCraft/) | Disaster recovery with heavy machinery | 71% | 6.9k |
+| [Voidtrain](https://store.steampowered.com/app/1159690/) | Interdimensional train survival and crafting | 71% | 4.4k |
 | [Gears of War: E-Day](https://store.steampowered.com/app/3010850/Gears_of_War_EDay/) | Cover-based alien invasion shooter | 70% | 7.4k |
 | [Battlefield 6](https://store.steampowered.com/app/2807960/Battlefield_6/) | Large-scale combined-arms shooter | 65% | 157.2k |
 | [Call of Duty](https://store.steampowered.com/app/1938090/Call_of_Duty/) | Multiplayer PVP FPS | 57% | 237.7k |
@@ -113,12 +122,15 @@ Games in Early Access that may need more development before we play.
 | [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/) | Underwater survival crafter | 93% | 72.9k | May 14, 2026 | 2029 |
 | [Windblown](https://store.steampowered.com/app/1911610/Windblown/) | Fast-paced co-op action roguelite | 92% | 5.0k | Oct 24, 2024 | 2026 |
 | [Swords 'n Magic and Stuff](https://store.steampowered.com/app/810040/Swords_n_Magic_and_Stuff/) | Cozy fantasy sandbox RPG | 92% | 890 | Sep 8, 2020 | n/a |
+| [Slay the Spire 2](https://store.steampowered.com/app/2868840/) | Cooperative roguelike card deckbuilding | 91% | 71.5k | Mar 5, 2026 | 2028 |
 | [Vein](https://store.steampowered.com/app/1857950/VEIN/) | Zombie survival crafter | 89% | 8.7k | Oct 24, 2025 | 2030 |
 | [Windrose](https://store.steampowered.com/app/3041230/Windrose/) | Pirate exploration and survival crafting | 88% | 28.9k | Apr 14, 2026 | Late 2028 |
 | [Romestead](https://store.steampowered.com/app/1805320/Romestead/) | Roman settlement survival against zombies | 88% | 1.4k | May 25, 2026 | 2028 |
 | [Grounded 2](https://store.steampowered.com/app/2661300/Grounded_2/) | Miniature backyard survival crafting | 87% | 13.4k | Jul 29, 2025 | n/a |
 | [Jump Space](https://store.steampowered.com/app/1757300/) | Co-op spaceship missions and exploration | 87% | 8.5k | Sep 19, 2025 | 2027 |
+| [Roadside Research](https://store.steampowered.com/app/3643170/) | Undercover alien gas-station management | 87% | 2.3k | Feb 12, 2026 | n/a |
 | [Cure - A Hospital Simulator](https://store.steampowered.com/app/2786550/CURE__A_Hospital_Simulator/) | Apocalyptic emergency-room management | 87% | 876 | Nov 20, 2025 | Late 2027 |
+| [Delverium](https://store.steampowered.com/app/2710040/) | Pixel sandbox farming and dungeon crawling | 86% | 178 | Sep 21, 2026 | 2028 |
 | [Volcanoids](https://store.steampowered.com/app/951440/) | Mobile drillship survival and combat | 84% | 4.9k | Jan 29, 2019 | n/a |
 | [Fast Food Simulator](https://store.steampowered.com/app/2916430/Fast_Food_Simulator/) | Co-op fast-food restaurant management | 84% | 4.5k | Dec 10, 2024 | n/a |
 | [Aloft](https://store.steampowered.com/app/1660080/Aloft/) | Floating-island restoration and survival | 84% | 2.0k | Jan 15, 2025 | n/a |
@@ -126,13 +138,17 @@ Games in Early Access that may need more development before we play.
 | [Lightyear Frontier](https://store.steampowered.com/app/1677110/) | Peaceful alien farming with mechs | 82% | 2.5k | Mar 19, 2024 | Nov 4, 2026 |
 | [Witchspire](https://store.steampowered.com/app/2679100/Witchspire/) | Witchcraft and creature-collecting survival | 82% | 2.0k | Jun 10, 2026 | n/a |
 | [Six Days in Fallujah](https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/) | Realistic military FPS | 81% | 9.6k | Jun 22, 2023 | Late 2026 |
+| [StarRupture](https://store.steampowered.com/app/1631270/) | Alien-world factory survival and defense | 81% | 7.0k | Jan 6, 2026 | 2027 |
 | [Everwind](https://store.steampowered.com/app/2253100/) | Flying-island survival crafting adventure | 81% | 1.7k | Mar 17, 2026 | n/a |
 | [Bellwright](https://store.steampowered.com/app/1812450/) | Medieval settlement building and combat | 79% | 10.5k | Apr 23, 2024 | 2027 |
 | [Craftopia](https://store.steampowered.com/app/1307550/) | Fantasy crafting and factory automation | 79% | 7.5k | Sep 4, 2020 | n/a |
 | [ASKA](https://store.steampowered.com/app/1898300/ASKA/) | Viking settlement-building survival | 79% | 5.7k | Jun 20, 2024 | n/a |
+| [MIMESIS](https://store.steampowered.com/app/2827200/) | Impostor horror tram scavenging | 78% | 2.1k | Oct 27, 2025 | n/a |
 | [Saleblazers](https://store.steampowered.com/app/1419850/) | Survival adventure and shopkeeping | 78% | 2.0k | Sep 29, 2023 | n/a |
+| [Wild Woods](https://store.steampowered.com/app/1975580/) | Cat caravan defense and gathering | 78% | 1.8k | Dec 9, 2024 | n/a |
 | [Afterblast](https://store.steampowered.com/app/1338490/AFTERBLAST/) | Bullet-hell FPS roguelite | 77% | 225 | Nov 26, 2025 | n/a |
 | [Gray Zone Warfare](https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/) | PvE extraction shooter | 74% | 47.4k | Apr 30, 2024 | n/a |
+| [Permafrost](https://store.steampowered.com/app/2254990/) | Frozen wasteland scavenging and shelter building | 71% | 1.8k | Oct 9, 2026 | n/a |
 | [Deep Rock Galactic: Rogue Core](https://store.steampowered.com/app/2605790/) | Roguelite underground co-op shooter | 69% | 7.6k | May 20, 2026 | May 2028 |
 | [Echoes of Elysium](https://store.steampowered.com/app/2644050/) | Airship-building survival RPG | 61% | 512 | Jan 27, 2026 | May 2027 |
 
@@ -144,14 +160,21 @@ Games that have not yet been released, including into Early Access.
 
 | Game | Quick Description | When |
 | :--- | :--- | :--- |
+| [ATMOSFAR](https://store.steampowered.com/app/1798230/) | Flying-island survival and airship building | EA Oct 29, 2026 |
+| [Totally Safe Moon Project](https://store.steampowered.com/app/4339680/) | Cooperative physics-based tower construction | Oct 30, 2026 |
+| [DUSTBLOOM](https://store.steampowered.com/app/5157580/) | Desert terraforming and base defense | EA Nov 10, 2026 |
 | [Hela: of Mice & Magic](https://store.steampowered.com/app/3161310/) | Magical mouse exploration and puzzles | Dec 1, 2026 |
+| [Dumpster Gang](https://store.steampowered.com/app/2870790/) | Raccoon heists and physics chaos | Dec 3, 2026 |
 | [Witchbrook](https://store.steampowered.com/app/1846700/) | Magical academy life simulation | 2026 |
+| [Frostrail](https://store.steampowered.com/app/3517740/) | Armored-train survival and scavenging | EA Q4 2026 |
 | [JOIN US](https://store.steampowered.com/app/3401960/) | Apocalyptic cult-building survival sandbox | Mar 2027 |
 | [GONE DIGGING](https://store.steampowered.com/app/4247230/) | Horror mining and resource scavenging | EA Q2 2027 |
 | [Canyons](https://store.steampowered.com/app/2708860/) | Crawler-based post-apocalyptic co-op shooter | Nov 2027 |
 | [BLACKFROST: The Long Dark 2](https://store.steampowered.com/app/1586260/) | Post-apocalyptic wilderness survival sandbox | EA 2027 |
 | [Seaforge: Shores of Atlantis](https://store.steampowered.com/app/4712440/) | Underwater exploration and survival crafting | EA 2027 |
 | [State of Decay 3](https://store.steampowered.com/app/1340720/) | Shared-world zombie settlement survival | 2027 |
+| [Voidwood](https://store.steampowered.com/app/3694420/) | Voice-sensitive cursed forest survival | 2027 |
+| [4:LOOP](https://store.steampowered.com/app/3355360/) | Alien-invasion roguelite squad shooter | n/a |
 | [ARK 2](https://store.steampowered.com/app/2050420/) | Dinosaur survival and open-world adventure | n/a |
 | [Blight: Survival](https://store.steampowered.com/app/1774880/) | Medieval cooperative action horror | n/a |
 | [Chrono Odyssey](https://store.steampowered.com/app/2873440/) | Time-bending open-world action MMORPG | n/a |

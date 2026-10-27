@@ -2,9 +2,9 @@
 
 This file records the **exact all-time Steam review totals** behind the `Percent` and `Count` columns of [Possible Games and Early Access](../games/README.md). This is a **dated snapshot**, not a continuously updated feed.
 
-- **Active coverage:** 82 Possible Games + 28 Early Access = **110 games**, each represented once and ordered as in the catalog.
-- **Measurement dates:** 107 active games, including the newly released Call of Duty: Modern Warfare 4, were verified on **October 26, 2026** using Steam's all-time review figures; **Borderlands 3**, **Red Dead Online**, and **The Division 2** retain their previous per-row review values and check dates because accessible official listings were too old to support a fresh figure. Refer to the `Checked` and `Access` columns for individual provenance.
-- **Review scope:** Prefer Steam's *all-time English-language* positive percentage and exact count; otherwise use all-time *Overall*. `Indexed Steam` indicates an indexed official Steam result was used because direct reading was age-gated, and indexing may lag today's date. No recent-30-day totals were substituted.
+- **Active coverage:** 91 Possible Games + 35 Early Access = **126 games**, each represented once and ordered as in the catalog.
+- **Measurement dates:** 123 active games, including the 16 newly approved discoveries and Call of Duty: Modern Warfare 4, have observations recorded with check date **October 26, 2026** using Steam's all-time review figures (new additions were found via indexed Steam results and indexing may lag); **Borderlands 3**, **Red Dead Online**, and **The Division 2** retain their previous per-row review values and check dates because accessible official listings were too old to support a fresh figure. Refer to the `Checked` and `Access` columns for individual provenance.
+- **Review scope:** Prefer Steam's *all-time English-language* positive percentage and exact count; otherwise use all-time *Overall*. `Indexed Steam` indicates an indexed official Steam result was used because direct reading was unavailable or age-gated, and indexing may lag the observation date. No recent-30-day totals were substituted.
 - **Precision:** Exact count below 1,000, otherwise one decimal `k` with half-up rounding in `games/README.md`. Ranking always uses exact review counts as tiebreakers.
 - **Source:** Each record's primary source is `https://store.steampowered.com/app/<Steam App ID>/`; game-specific indexed Steam listings supplied age-gated reviews. Individual historical timestamps are preserved when current values are unavailable.
 - **Historical records:** Seven intentionally removed games are preserved in a separate excluded-games section; Palworld's October 2026 transfer to Played is preserved separately as historical transfer information, **not** an exclusion. Historical entries do not count toward 110 active games.
@@ -38,9 +38,14 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Dinkum | 1062520 | 93% | 15,863 | English | Steam | 2026-10-26 |
 | Possible Games | Overcooked! 2 | 728880 | 93% | 14,682 | English | Steam | 2026-10-26 |
 | Possible Games | TerraTech | 285920 | 92% | 13,266 | English | Steam | 2026-10-26 |
+| Possible Games | PowerWash Simulator 2 | 2968420 | 92% | 7,511 | English | Indexed Steam | 2026-10-26 |
+| Possible Games | Escape Simulator 2 | 2879840 | 92% | 1,969 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Astroneer | 361420 | 91% | 54,109 | English | Steam | 2026-10-26 |
 | Possible Games | V Rising | 1604030 | 90% | 55,219 | English | Steam | 2026-10-26 |
+| Possible Games | Scrap Mechanic | 387990 | 90% | 48,187 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Warhammer: Vermintide 2 | 552500 | 90% | 44,089 | English | Steam | 2026-10-26 |
+| Possible Games | Luma Island | 2408820 | 90% | 3,769 | English | Indexed Steam | 2026-10-26 |
+| Possible Games | Rotwood | 2015270 | 90% | 2,234 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Space Engineers | 244850 | 89% | 67,845 | English | Steam | 2026-10-26 |
 | Possible Games | RV There Yet? | 3949040 | 89% | 32,187 | English | Steam | 2026-10-26 |
 | Possible Games | Pulsar: Lost Colony | 252870 | 89% | 3,742 | English | Steam | 2026-10-26 |
@@ -52,6 +57,7 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Guild Wars 2 | 1284210 | 88% | 19,289 | English | Steam | 2026-10-26 |
 | Possible Games | For The King | 527230 | 88% | 11,682 | English | Steam | 2026-10-26 |
 | Possible Games | Void Crew | 1063420 | 88% | 5,126 | English | Steam | 2026-10-26 |
+| Possible Games | Unrailed 2: Back on Track | 2211170 | 88% | 1,829 | Overall | Indexed Steam | 2026-10-26 |
 | Possible Games | Enshrouded | 1203620 | 87% | 51,698 | English | Steam | 2026-10-26 |
 | Possible Games | Monster Hunter Rise | 1446780 | 87% | 35,144 | English | Steam | 2026-10-26 |
 | Possible Games | Ale & Tale Tavern | 2683150 | 87% | 4,184 | English | Steam | 2026-10-26 |
@@ -59,6 +65,7 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Green Hell | 815370 | 85% | 27,562 | English | Steam | 2026-10-26 |
 | Possible Games | State of Decay 2 | 495420 | 85% | 22,350 | English | Steam | 2026-10-26 |
 | Possible Games | Ravenswatch | 2071280 | 85% | 8,548 | English | Indexed Steam | 2026-10-26 |
+| Possible Games | Wildmender | 1599330 | 85% | 1,806 | Overall | Indexed Steam | 2026-10-26 |
 | Possible Games | Misery | 2119830 | 84% | 8,183 | English | Steam | 2026-10-26 |
 | Possible Games | World War Z | 699130 | 84% | 7,576 | English | Steam | 2026-10-26 |
 | Possible Games | Hell Let Loose | 686810 | 83% | 62,979 | English | Steam | 2026-10-26 |
@@ -86,12 +93,14 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Generation Zero | 704270 | 76% | 18,419 | English | Steam | 2026-10-26 |
 | Possible Games | The Ascent | 979690 | 76% | 12,609 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Dead Island 2 | 934700 | 76% | 11,021 | English | Indexed Steam | 2026-10-26 |
+| Possible Games | Aragami 2 | 1158370 | 76% | 1,564 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Fallout 76 | 1151340 | 75% | 47,102 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | HumanitZ | 1766060 | 73% | 4,507 | English | Steam | 2026-10-26 |
 | Possible Games | Outbound | 2681030 | 73% | 1,869 | Overall | Steam | 2026-10-26 |
 | Possible Games | Moving Out 2 | 1641700 | 72% | 471 | Overall | Steam | 2026-10-26 |
 | Possible Games | Ghost Recon Breakpoint | 2231380 | 71% | 20,731 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | RoadCraft | 2104890 | 71% | 6,912 | English | Steam | 2026-10-26 |
+| Possible Games | Voidtrain | 1159690 | 71% | 4,424 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Gears of War: E-Day | 3010850 | 70% | 7,437 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Battlefield 6 | 2807960 | 65% | 157,188 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | Call of Duty | 1938090 | 57% | 237,657 | English | Indexed Steam | 2026-10-26 |
@@ -101,12 +110,15 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Early Access | Subnautica 2 | 1962700 | 93% | 72,887 | English | Steam | 2026-10-26 |
 | Early Access | Windblown | 1911610 | 92% | 4,951 | English | Steam | 2026-10-26 |
 | Early Access | Swords 'n Magic and Stuff | 810040 | 92% | 890 | Overall | Steam | 2026-10-26 |
+| Early Access | Slay the Spire 2 | 2868840 | 91% | 71,460 | English | Indexed Steam | 2026-10-26 |
 | Early Access | Vein | 1857950 | 89% | 8,727 | English | Steam | 2026-10-26 |
 | Early Access | Windrose | 3041230 | 88% | 28,927 | English | Steam | 2026-10-26 |
 | Early Access | Romestead | 1805320 | 88% | 1,401 | English | Steam | 2026-10-26 |
 | Early Access | Grounded 2 | 2661300 | 87% | 13,410 | English | Steam | 2026-10-26 |
 | Early Access | Jump Space | 1757300 | 87% | 8,454 | English | Steam | 2026-10-26 |
+| Early Access | Roadside Research | 3643170 | 87% | 2,288 | English | Indexed Steam | 2026-10-26 |
 | Early Access | Cure - A Hospital Simulator | 2786550 | 87% | 876 | Overall | Steam | 2026-10-26 |
+| Early Access | Delverium | 2710040 | 86% | 178 | Overall | Indexed Steam | 2026-10-26 |
 | Early Access | Volcanoids | 951440 | 84% | 4,936 | English | Steam | 2026-10-26 |
 | Early Access | Fast Food Simulator | 2916430 | 84% | 4,506 | English | Steam | 2026-10-26 |
 | Early Access | Aloft | 1660080 | 84% | 1,979 | English | Steam | 2026-10-26 |
@@ -114,13 +126,17 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Early Access | Lightyear Frontier | 1677110 | 82% | 2,536 | English | Steam | 2026-10-26 |
 | Early Access | Witchspire | 2679100 | 82% | 1,979 | Overall | Steam | 2026-10-26 |
 | Early Access | Six Days in Fallujah | 1548850 | 81% | 9,591 | English | Steam | 2026-10-26 |
+| Early Access | StarRupture | 1631270 | 81% | 6,980 | English | Indexed Steam | 2026-10-26 |
 | Early Access | Everwind | 2253100 | 81% | 1,743 | English | Steam | 2026-10-26 |
 | Early Access | Bellwright | 1812450 | 79% | 10,525 | English | Steam | 2026-10-26 |
 | Early Access | Craftopia | 1307550 | 79% | 7,544 | English | Steam | 2026-10-26 |
 | Early Access | ASKA | 1898300 | 79% | 5,686 | English | Steam | 2026-10-26 |
+| Early Access | MIMESIS | 2827200 | 78% | 2,111 | English | Indexed Steam | 2026-10-26 |
 | Early Access | Saleblazers | 1419850 | 78% | 1,990 | Overall | Steam | 2026-10-26 |
+| Early Access | Wild Woods | 1975580 | 78% | 1,766 | Overall | Indexed Steam | 2026-10-26 |
 | Early Access | Afterblast | 1338490 | 77% | 225 | Overall | Steam | 2026-10-26 |
 | Early Access | Gray Zone Warfare | 2479810 | 74% | 47,434 | English | Steam | 2026-10-26 |
+| Early Access | Permafrost | 2254990 | 71% | 1,819 | Overall | Indexed Steam | 2026-10-26 |
 | Early Access | Deep Rock Galactic: Rogue Core | 2605790 | 69% | 7,635 | English | Steam | 2026-10-26 |
 | Early Access | Echoes of Elysium | 2644050 | 61% | 512 | Overall | Steam | 2026-10-26 |
 
