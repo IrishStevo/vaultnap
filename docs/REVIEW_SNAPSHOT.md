@@ -2,8 +2,8 @@
 
 This file records the **exact all-time Steam review totals** behind the `Percent` and `Count` columns of [Possible Games and Early Access](../games/README.md). This is a **dated snapshot**, not a continuously updated feed.
 
-- **Active coverage:** 91 Possible Games + 35 Early Access = **126 games**, each represented once and ordered as in the catalog.
-- **Measurement dates:** 121 active games have current official Steam store all-time reviews retrieved on **November 8, 2026**; five age-gated games (State of Decay 2, The Division 2, Ghost Recon Breakpoint, Call of Duty: Modern Warfare 4, and Battlefield 6) retain earlier exact values and their own historical check dates because direct store review summaries were inaccessible. Refer to the `Checked` and `Access` columns for individual provenance.
+- **Active coverage:** 98 Possible Games + 39 Early Access = **137 games**, each represented once and ordered as in the catalog.
+- **Measurement dates:** 131 active games have official Steam store all-time review figures retrieved on **November 8, 2026** (including new additions); five older age-gated games (State of Decay 2, The Division 2, Ghost Recon Breakpoint, Call of Duty: Modern Warfare 4, and Battlefield 6) retain earlier exact values and their own historical check dates because direct store review summaries were inaccessible. Dune: Awakening uses an indexed Steam listing whose underlying crawl may predate the November 8 retrieval; Undead Development 2 has 7 total reviews but no published Steam Percent score (`n/a`), so it ranks after scored entries. Refer to the `Checked` and `Access` columns for individual provenance.
 - **Review scope:** Prefer Steam's *all-time English-language* positive percentage and exact count; otherwise use all-time *Overall*. `Indexed Steam` indicates an indexed official Steam result was used because direct reading was unavailable or age-gated, and indexing may lag the observation date. No recent-30-day totals were substituted.
 - **Precision:** Exact count below 1,000, otherwise one decimal `k` with half-up rounding in `games/README.md`. Ranking always uses exact review counts as tiebreakers.
 - **Source:** Each record's primary source is `https://store.steampowered.com/app/<Steam App ID>/`; game-specific indexed Steam listings supplied age-gated reviews. Individual historical timestamps are preserved when current values are unavailable.
@@ -17,6 +17,7 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Big Walk | 1478500 | 96% | 29,532 | English | Steam | 2026-11-08 |
 | Possible Games | Abiotic Factor | 427410 | 96% | 29,423 | English | Steam | 2026-11-08 |
 | Possible Games | PlateUp! | 1599600 | 96% | 12,689 | English | Steam | 2026-11-08 |
+| Possible Games | BOMBANANA! | 4656000 | 96% | 1,390 | English | Steam | 2026-11-08 |
 | Possible Games | Trash Day | 3314580 | 96% | 884 | Overall | Steam | 2026-11-08 |
 | Possible Games | The Forest | 242760 | 95% | 178,525 | English | Steam | 2026-11-08 |
 | Possible Games | Risk of Rain 2 | 632360 | 95% | 165,400 | English | Steam | 2026-11-08 |
@@ -45,6 +46,7 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Warhammer: Vermintide 2 | 552500 | 90% | 44,104 | English | Steam | 2026-11-08 |
 | Possible Games | Luma Island | 2408820 | 90% | 3,775 | English | Steam | 2026-11-08 |
 | Possible Games | Rotwood | 2015270 | 90% | 2,240 | English | Steam | 2026-11-08 |
+| Possible Games | Trine 5: A Clockwork Conspiracy | 1436700 | 90% | 866 | English | Steam | 2026-11-08 |
 | Possible Games | Space Engineers | 244850 | 89% | 67,872 | English | Steam | 2026-11-08 |
 | Possible Games | RV There Yet? | 3949040 | 89% | 32,444 | English | Steam | 2026-11-08 |
 | Possible Games | Pulsar: Lost Colony | 252870 | 89% | 3,743 | English | Steam | 2026-11-08 |
@@ -57,9 +59,11 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | For The King | 527230 | 88% | 11,690 | English | Steam | 2026-11-08 |
 | Possible Games | Void Crew | 1063420 | 88% | 5,129 | English | Steam | 2026-11-08 |
 | Possible Games | Unrailed 2: Back on Track | 2211170 | 88% | 1,837 | Overall | Steam | 2026-11-08 |
+| Possible Games | HELLCARD | 1201540 | 88% | 1,710 | English | Steam | 2026-11-08 |
 | Possible Games | Enshrouded | 1203620 | 87% | 52,941 | English | Steam | 2026-11-08 |
 | Possible Games | Monster Hunter Rise | 1446780 | 87% | 35,232 | English | Steam | 2026-11-08 |
 | Possible Games | Ale & Tale Tavern | 2683150 | 87% | 4,195 | English | Steam | 2026-11-08 |
+| Possible Games | Abyssus | 1721110 | 87% | 3,672 | English | Steam | 2026-11-08 |
 | Possible Games | House Flipper 2 | 1190970 | 86% | 9,780 | English | Steam | 2026-11-08 |
 | Possible Games | Green Hell | 815370 | 85% | 27,659 | English | Steam | 2026-11-08 |
 | Possible Games | State of Decay 2 | 495420 | 85% | 22,350 | English | Steam | 2026-10-26 |
@@ -70,6 +74,7 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Hell Let Loose | 686810 | 83% | 63,029 | English | Steam | 2026-11-08 |
 | Possible Games | Eden Crafters | 2570210 | 83% | 1,300 | English | Steam | 2026-11-08 |
 | Possible Games | Aliens: Fireteam Elite | 1549970 | 82% | 14,395 | English | Steam | 2026-11-08 |
+| Possible Games | Len's Island | 1335830 | 82% | 3,415 | English | Steam | 2026-11-08 |
 | Possible Games | Once Human | 2139460 | 81% | 95,521 | English | Steam | 2026-11-08 |
 | Possible Games | Borderlands 3 | 397540 | 81% | 60,442 | English | Steam | 2026-11-08 |
 | Possible Games | Red Dead Online | 1404210 | 81% | 30,660 | English | Steam | 2026-11-08 |
@@ -96,8 +101,10 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Possible Games | Dead Island 2 | 934700 | 76% | 11,149 | English | Steam | 2026-11-08 |
 | Possible Games | Aragami 2 | 1158370 | 76% | 1,564 | English | Steam | 2026-11-08 |
 | Possible Games | Fallout 76 | 1151340 | 75% | 47,204 | English | Steam | 2026-11-08 |
+| Possible Games | Tribes of Midgard | 858820 | 74% | 6,771 | English | Steam | 2026-11-08 |
 | Possible Games | HumanitZ | 1766060 | 73% | 4,558 | English | Steam | 2026-11-08 |
 | Possible Games | Outbound | 2681030 | 73% | 1,885 | Overall | Steam | 2026-11-08 |
+| Possible Games | Dune: Awakening | 1172710 | 72% | 47,368 | English | Indexed Steam | 2026-11-08 |
 | Possible Games | Moving Out 2 | 1641700 | 72% | 471 | Overall | Steam | 2026-11-08 |
 | Possible Games | Ghost Recon Breakpoint | 2231380 | 71% | 20,731 | English | Indexed Steam | 2026-10-26 |
 | Possible Games | RoadCraft | 2104890 | 71% | 6,947 | English | Steam | 2026-11-08 |
@@ -118,8 +125,11 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Early Access | Jump Space | 1757300 | 87% | 8,482 | English | Steam | 2026-11-08 |
 | Early Access | Roadside Research | 3643170 | 87% | 2,373 | English | Steam | 2026-11-08 |
 | Early Access | Cure - A Hospital Simulator | 2786550 | 87% | 886 | Overall | Steam | 2026-11-08 |
+| Early Access | No Rest for the Wicked | 1371980 | 86% | 27,979 | English | Steam | 2026-11-08 |
 | Early Access | Witchspire | 2679100 | 86% | 1,192 | English | Steam | 2026-11-08 |
 | Early Access | Delverium | 2710040 | 86% | 197 | Overall | Steam | 2026-11-08 |
+| Early Access | Voyagers of Nera | 2686630 | 85% | 1,264 | English | Steam | 2026-11-08 |
+| Early Access | Good Heavens! | 1617120 | 85% | 61 | Overall | Steam | 2026-11-08 |
 | Early Access | Volcanoids | 951440 | 84% | 4,937 | English | Steam | 2026-11-08 |
 | Early Access | Fast Food Simulator | 2916430 | 84% | 4,519 | English | Steam | 2026-11-08 |
 | Early Access | Aloft | 1660080 | 84% | 1,984 | English | Steam | 2026-11-08 |
@@ -139,6 +149,7 @@ This file records the **exact all-time Steam review totals** behind the `Percent
 | Early Access | Deep Rock Galactic: Rogue Core | 2605790 | 69% | 7,711 | English | Steam | 2026-11-08 |
 | Early Access | ATMOSFAR | 1798230 | 69% | 613 | Overall | Steam | 2026-11-08 |
 | Early Access | Echoes of Elysium | 2644050 | 61% | 516 | Overall | Steam | 2026-11-08 |
+| Early Access | Undead Development 2 | 1587920 | n/a | 7 | Overall | Steam | 2026-11-08 |
 
 ## Historical snapshot — games intentionally removed
 

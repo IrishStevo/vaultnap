@@ -1,6 +1,6 @@
 # Steam activity and popularity snapshot
 
-This is a dated, **independent of reviews** companion to the `Popularity` column in [Possible Games and Early Access](../games/README.md). The source is Steam Charts’ per-app **“Last 30 Days → Avg. Players”** (rolling average of simultaneous Steam players), retrieved November 8, 2026 Pacific time; individual publicly indexed pages have different crawl timestamps and may lag. This is not sales, unique players, ownership, ratings, co-op-specific activity, or users playing from other launchers. SteamDB player histories may be used as a cross-check, but Steam Charts’ public 30-day averages are the primary source for this snapshot.
+This is a dated, **independent of reviews** companion to the `Popularity` column in [Possible Games and Early Access](../games/README.md). The source is Steam Charts’ per-app **“Last 30 Days → Avg. Players”** (rolling average of simultaneous Steam players), retrieved November 8, 2026 Pacific time (new additions checked separately on the same date); individual publicly indexed pages have different crawl timestamps and may lag. This is not sales, unique players, ownership, ratings, co-op-specific activity, or users playing from other launchers. SteamDB player histories may be used as a cross-check, but Steam Charts’ public 30-day averages are the primary source for this snapshot.
 
 ## Star thresholds
 
@@ -18,7 +18,7 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 
 ## Active popularity measurements — retrieved November 8, 2026
 
-**Coverage:** 91 Possible Games + 35 Early Access = **126 entries**. Ratings: **☆☆☆** 12, **★☆☆** 45, **★★☆** 48, **★★★** 15, **n/a** 6. Each `Checked` date refers to retrieval of the source page; some Steam Charts pages were crawled earlier and may lag live statistics.
+**Coverage:** 98 Possible Games + 39 Early Access = **137 entries**. Ratings: **☆☆☆** 17, **★☆☆** 46, **★★☆** 50, **★★★** 15, **n/a** 9. Each `Checked` date refers to retrieval of the source page; some Steam Charts pages were crawled earlier and may lag live statistics.
 
 | Section | Game | Steam app | Avg. players, last 30 days | Popularity | Steam Charts source | Checked |
 | :--- | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -26,6 +26,7 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Possible Games | Big Walk | 1478500 | 3876.93 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1478500) | 2026-11-08 |
 | Possible Games | Abiotic Factor | 427410 | 2581.83 | ★★☆ | [Steam Charts](https://steamcharts.com/app/427410) | 2026-11-08 |
 | Possible Games | PlateUp! | 1599600 | 2740.98 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1599600) | 2026-11-08 |
+| Possible Games | BOMBANANA! | 4656000 | n/a | n/a | [Steam Charts](https://steamcharts.com/app/4656000) | 2026-11-08 |
 | Possible Games | Trash Day | 3314580 | 786.45 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/3314580) | 2026-11-08 |
 | Possible Games | The Forest | 242760 | 5293.28 | ★★☆ | [Steam Charts](https://steamcharts.com/app/242760) | 2026-11-08 |
 | Possible Games | Risk of Rain 2 | 632360 | 17586.45 | ★★★ | [Steam Charts](https://steamcharts.com/app/632360) | 2026-11-08 |
@@ -54,6 +55,7 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Possible Games | Warhammer: Vermintide 2 | 552500 | 1710.86 | ★★☆ | [Steam Charts](https://steamcharts.com/app/552500) | 2026-11-08 |
 | Possible Games | Luma Island | 2408820 | 380.40 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2408820) | 2026-11-08 |
 | Possible Games | Rotwood | 2015270 | 174.38 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2015270) | 2026-11-08 |
+| Possible Games | Trine 5: A Clockwork Conspiracy | 1436700 | 75.58 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/1436700) | 2026-11-08 |
 | Possible Games | Space Engineers | 244850 | 2712.38 | ★★☆ | [Steam Charts](https://steamcharts.com/app/244850) | 2026-11-08 |
 | Possible Games | RV There Yet? | 3949040 | 3813.43 | ★★☆ | [Steam Charts](https://steamcharts.com/app/3949040) | 2026-11-08 |
 | Possible Games | Pulsar: Lost Colony | 252870 | n/a | n/a | [Steam Charts](https://steamcharts.com/app/252870) | 2026-11-08 |
@@ -66,9 +68,11 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Possible Games | For The King | 527230 | 503.06 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/527230) | 2026-11-08 |
 | Possible Games | Void Crew | 1063420 | 65.78 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/1063420) | 2026-11-08 |
 | Possible Games | Unrailed 2: Back on Track | 2211170 | 118.74 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2211170) | 2026-11-08 |
+| Possible Games | HELLCARD | 1201540 | 68.41 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/1201540) | 2026-11-08 |
 | Possible Games | Enshrouded | 1203620 | 44585.83 | ★★★ | [Steam Charts](https://steamcharts.com/app/1203620) | 2026-11-08 |
 | Possible Games | Monster Hunter Rise | 1446780 | 9296.90 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1446780) | 2026-11-08 |
 | Possible Games | Ale & Tale Tavern | 2683150 | 285.92 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2683150) | 2026-11-08 |
+| Possible Games | Abyssus | 1721110 | 107.04 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/1721110) | 2026-11-08 |
 | Possible Games | House Flipper 2 | 1190970 | 2575.85 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1190970) | 2026-11-08 |
 | Possible Games | Green Hell | 815370 | 4675.69 | ★★☆ | [Steam Charts](https://steamcharts.com/app/815370) | 2026-11-08 |
 | Possible Games | State of Decay 2 | 495420 | 1286.50 | ★★☆ | [Steam Charts](https://steamcharts.com/app/495420) | 2026-11-08 |
@@ -79,6 +83,7 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Possible Games | Hell Let Loose | 686810 | 2230.11 | ★★☆ | [Steam Charts](https://steamcharts.com/app/686810) | 2026-11-08 |
 | Possible Games | Eden Crafters | 2570210 | 215.45 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2570210) | 2026-11-08 |
 | Possible Games | Aliens: Fireteam Elite | 1549970 | 120.65 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/1549970) | 2026-11-08 |
+| Possible Games | Len's Island | 1335830 | 72.50 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/1335830) | 2026-11-08 |
 | Possible Games | Once Human | 2139460 | 20183.18 | ★★★ | [Steam Charts](https://steamcharts.com/app/2139460) | 2026-11-08 |
 | Possible Games | Borderlands 3 | 397540 | 1843.56 | ★★☆ | [Steam Charts](https://steamcharts.com/app/397540) | 2026-11-08 |
 | Possible Games | Red Dead Online | 1404210 | 553.53 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/1404210) | 2026-11-08 |
@@ -105,8 +110,10 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Possible Games | Dead Island 2 | 934700 | 1249.17 | ★★☆ | [Steam Charts](https://steamcharts.com/app/934700) | 2026-11-08 |
 | Possible Games | Aragami 2 | 1158370 | 23.55 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/1158370) | 2026-11-08 |
 | Possible Games | Fallout 76 | 1151340 | 7267.00 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1151340) | 2026-11-08 |
+| Possible Games | Tribes of Midgard | 858820 | 96.67 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/858820) | 2026-11-08 |
 | Possible Games | HumanitZ | 1766060 | 1284.67 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1766060) | 2026-11-08 |
 | Possible Games | Outbound | 2681030 | n/a | n/a | [Steam Charts](https://steamcharts.com/app/2681030) | 2026-11-08 |
+| Possible Games | Dune: Awakening | 1172710 | 8456.00 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1172710) | 2026-11-08 |
 | Possible Games | Moving Out 2 | 1641700 | 65.40 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/1641700) | 2026-11-08 |
 | Possible Games | Ghost Recon Breakpoint | 2231380 | 1843.50 | ★★☆ | [Steam Charts](https://steamcharts.com/app/2231380) | 2026-11-08 |
 | Possible Games | RoadCraft | 2104890 | 891.75 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2104890) | 2026-11-08 |
@@ -127,8 +134,11 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Early Access | Jump Space | 1757300 | 703.61 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/1757300) | 2026-11-08 |
 | Early Access | Roadside Research | 3643170 | 226.04 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/3643170) | 2026-11-08 |
 | Early Access | Cure - A Hospital Simulator | 2786550 | 106.72 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2786550) | 2026-11-08 |
+| Early Access | No Rest for the Wicked | 1371980 | 1666.97 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1371980) | 2026-11-08 |
 | Early Access | Witchspire | 2679100 | 209.91 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2679100) | 2026-11-08 |
 | Early Access | Delverium | 2710040 | n/a | n/a | [Steam Charts](https://steamcharts.com/app/2710040) | 2026-11-08 |
+| Early Access | Voyagers of Nera | 2686630 | 55.45 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/2686630) | 2026-11-08 |
+| Early Access | Good Heavens! | 1617120 | n/a | n/a | [Steam Charts](https://steamcharts.com/app/1617120) | 2026-11-08 |
 | Early Access | Volcanoids | 951440 | 28.79 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/951440) | 2026-11-08 |
 | Early Access | Fast Food Simulator | 2916430 | 180.83 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2916430) | 2026-11-08 |
 | Early Access | Aloft | 1660080 | 114.30 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/1660080) | 2026-11-08 |
@@ -148,6 +158,7 @@ This is a dated, **independent of reviews** companion to the `Popularity` column
 | Early Access | Deep Rock Galactic: Rogue Core | 2605790 | 307.80 | ★☆☆ | [Steam Charts](https://steamcharts.com/app/2605790) | 2026-11-08 |
 | Early Access | ATMOSFAR | 1798230 | 1050.65 | ★★☆ | [Steam Charts](https://steamcharts.com/app/1798230) | 2026-11-08 |
 | Early Access | Echoes of Elysium | 2644050 | 3.79 | ☆☆☆ | [Steam Charts](https://steamcharts.com/app/2644050) | 2026-11-08 |
+| Early Access | Undead Development 2 | 1587920 | n/a | n/a | [Steam Charts](https://steamcharts.com/app/1587920) | 2026-11-08 |
 
 ## Unavailable or stale observations
 
@@ -155,6 +166,9 @@ These games do not have a reliable game-specific 30-day average for the **Novemb
 
 | Game | Reason |
 | :--- | :--- |
+| BOMBANANA! | No reliable app-specific Steam Charts 30-day average accessible |
+| Good Heavens! | No reliable app-specific Steam Charts 30-day average accessible for newly released Early Access game |
+| Undead Development 2 | Newly released November 6; no reliable app-specific Steam Charts 30-day average accessible |
 | Call of Duty: Modern Warfare 4 | No reliable game-specific 30-day average; shared Call of Duty hub would mix titles |
 | Delverium | Steam Charts app page did not yield a reliable current 30-day average |
 | Outbound | Steam Charts app page did not yield a reliable current 30-day average |

@@ -6,7 +6,7 @@ Follow the current [ChatGPT Instructions](README.md#chatgpt-instructions) in the
 
 For named commands, see `docs/UPDATE_GAMES.md` (maintenance of existing entries) and `docs/FIND_NEW_GAMES.md` (discovery of new candidates; seek owner approval before adding).
 
-Keep the game list free of development and process notes; use `docs/PROJECT_CONTEXT.md` for handoff details.
+Keep the game list free of development and process notes; use `docs/PROJECT_CONTEXT.md` for handoff details. For every `Update games`, **report in chat** section moves, popularity-star gains/losses and `n/a` transitions, and all **changed** Early Access `Start`/`Est. End` and Coming Soon `When` dates; omit routine review fluctuations. See `docs/UPDATE_GAMES.md` §6.
 
 ## Efficient repository updates
 
